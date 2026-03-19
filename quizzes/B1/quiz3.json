@@ -1,749 +1,833 @@
 {
-  "name": "Unit 1",
+  "name": "Unit 12",
   "questions": [
     {
-      "question": "abone nima?",
-      "answers": ["obuna", "qarz", "tölo‘v", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'apologize' mean?",
+      "answers": ["rahmat bildirmoq", "uzr so'ramoq", "tabriklamoq", "tavsiya qilmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "acil nima?",
-      "answers": ["shoshilinch, tez", "sekin", "oddiy", "sokin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Uzr so'ramoq so'zining inglizcha tarjimasi?",
+      "answers": ["thank", "apologize", "congratulate", "recommend"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "adım nima?",
-      "answers": ["qadam", "yo‘l", "tezlik", "sakrash"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'boyfriend' mean?",
+      "answers": ["do'st", "sevgili (yigit)", "aka", "sinfdosh"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "araç nima?",
-      "answers": ["transport vositasi, vosita", "uy", "qurilma", "quvur"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sevgili (yigit) so'zining inglizcha tarjimasi?",
+      "answers": ["friend", "boyfriend", "brother", "classmate"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "arıza nima?",
-      "answers": ["xato, (buzilish holati)", "to‘g‘rilik", "ishonch", "yordam"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'close' mean (as an adjective)?",
+      "answers": ["uzoq", "yaqin", "chet", "ortda"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "bedel nima?",
-      "answers": ["badal, tölo‘v", "qarz", "sovg‘a", "xizmat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Yaqin (munosabatda) so'zining inglizcha tarjimasi?",
+      "answers": ["far", "close", "foreign", "behind"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "bilek nima?",
-      "answers": ["bilak", "qo‘l", "bosh", "oyoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'confident' mean?",
+      "answers": ["nochor", "o'ziga ishongan", "shubhali", "cho'chigan"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "borç nima?",
-      "answers": ["qarz", "tölo‘v", "foyda", "sovg‘a"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "O'ziga ishongan so'zining inglizcha tarjimasi?",
+      "answers": ["weak", "confident", "doubtful", "afraid"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "boru nima?",
-      "answers": ["quvur", "arqon", "yo‘l", "suv"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'cool' mean (in this context)?",
+      "answers": ["issiq", "zo'r, ajoyib", "sovuq", "xomush"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "büyüklük nima?",
-      "answers": ["kattalik", "kichiklik", "uzunlik", "qisqalik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Zo'r, ajoyib so'zining inglizcha tarjimasi?",
+      "answers": ["hot", "cool", "cold", "boring"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "büyüleyici nima?",
-      "answers": ["kattalashtiradigan", "kichraytiradigan", "oddiy", "sekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'couple' mean?",
+      "answers": ["guruh", "juft", "yolg'iz", "to'da"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "civar nima?",
-      "answers": ["atrof (çevre-atrof)", "markaz", "ichki", "uzoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Juft so'zining inglizcha tarjimasi?",
+      "answers": ["group", "couple", "single", "crowd"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "çöp nima?",
-      "answers": ["axlat", "suv", "ovqat", "qadoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'decorate' mean?",
+      "answers": ["buzmoq", "bezaklamoq", "yig'moq", "tozalash"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "dahil nima?",
-      "answers": ["shu jumladan", "alohida", "tashqari", "maxsus"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Bezaklamoq so'zining inglizcha tarjimasi?",
+      "answers": ["break", "decorate", "collect", "clean"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "davranış nima?",
-      "answers": ["xulq-atvor", "so‘z", "harakat", "fikr"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'defend' mean?",
+      "answers": ["hujum qilmoq", "himoya qilmoq", "qochmoq", "kuzatmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "deneyim nima?",
-      "answers": ["tajriba", "bilim", "xato", "yordam"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Himoya qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["attack", "defend", "escape", "observe"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "depozito nima?",
-      "answers": ["depozit (komissiyoniskiy)", "qarz", "tölo‘v", "soliq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'divorced' mean?",
+      "answers": ["uylangan", "ajrashgan", "sevishgan", "yarashgan"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "doğalgaz nima?",
-      "answers": ["tabiiy gaz (oqma gaz)", "suv", "elektr", "yoqilg‘i"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ajrashgan so'zining inglizcha tarjimasi?",
+      "answers": ["married", "divorced", "in love", "reconciled"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "döşeme nima?",
-      "answers": ["pol", "devor", "tavan", "eshik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'flat' mean?",
+      "answers": ["uy", "kvartira", "hovli", "ofis"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "durum nima?",
-      "answers": ["vaziyat, holat", "joy", "vaqt", "narx"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Kvartira so'zining inglizcha tarjimasi?",
+      "answers": ["house", "flat", "yard", "office"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "eğitim nima?",
-      "answers": ["ta’lim", "ish", "o‘yin", "sayohat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'generous' mean?",
+      "answers": ["zaxa", "saxiy", "oliyjanob", "baxil"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "emlak nima?",
-      "answers": ["köchmas mulk", "pul", "transport", "uy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Oliyjanob (saxovatli) so'zining inglizcha tarjimasi?",
+      "answers": ["mean", "stingy", "generous", "selfish"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "endişeli nima?",
-      "answers": ["xavotirli, tashvishli", "xursand", "tinch", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'girlfriend' mean?",
+      "answers": ["do'st", "sevgili (qiz)", "opa", "sinfdosh"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "etki nima?",
-      "answers": ["ta’sir", "harakat", "so‘z", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sevgili (qiz) so'zining inglizcha tarjimasi?",
+      "answers": ["friend", "girlfriend", "sister", "classmate"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "evlilik nima?",
-      "answers": ["oila qurish, nikoh", "yoshlik", "sayohat", "ish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'grateful' mean?",
+      "answers": ["noruxt", "minnatdor", "xafa", "behuda"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "fatura nima?",
-      "answers": ["hisob-faktura", "xat", "qarz", "sovg‘a"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Minnatdor so'zining inglizcha tarjimasi?",
+      "answers": ["ungrateful", "grateful", "angry", "useless"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "fiyat nima?",
-      "answers": ["narx", "qiymat", "sovg‘a", "xizmat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'guest' mean?",
+      "answers": ["mezbon", "mehmon", "o'qituvchi", "shogird"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "fonksiyon nima?",
-      "answers": ["funksiya", "xato", "ish", "harakat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mehmon so'zining inglizcha tarjimasi?",
+      "answers": ["host", "guest", "teacher", "student"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "garip nima?",
-      "answers": ["g‘alati", "oddiy", "tushunarli", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'independent' mean?",
+      "answers": ["bog'liq", "mustaqil", "yordamchi", "qaram"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "günlük nima?",
-      "answers": ["kunlik", "haftalik", "oylik", "yillik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mustaqil so'zining inglizcha tarjimasi?",
+      "answers": ["dependent", "independent", "assistant", "subordinate"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "güvenlik nima?",
-      "answers": ["ishonchli", "xavfli", "oddiy", "tekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'introduce' mean?",
+      "answers": ["yashirmoq", "tanishtirmoq", "yubormoq", "qabul qilmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "halat nima?",
-      "answers": ["arqon", "quvur", "suv", "yo‘l"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tanishtirmoq so'zining inglizcha tarjimasi?",
+      "answers": ["hide", "introduce", "send", "receive"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ham nima?",
-      "answers": ["xom", "pishgan", "mazali", "suvli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'loving' mean?",
+      "answers": ["nofiq", "sevimli", "mehribon", "xafa"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "ısıtma nima?",
-      "answers": ["isitish", "sovutish", "yuvish", "tozalash"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mehribon so'zining inglizcha tarjimasi?",
+      "answers": ["hypocritical", "lovely", "loving", "angry"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "ıslak nima?",
-      "answers": ["ho‘l", "quruq", "issiq", "sovuq"],
+      "question": "What does 'loyal' mean?",
+      "answers": ["sodiq", "xoin", "ishonchsiz", "aldamchi"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "içerik nima?",
-      "answers": ["tarkibi", "narxi", "shakli", "rangi"],
+      "question": "Sodiq so'zining inglizcha tarjimasi?",
+      "answers": ["loyal", "traitor", "unreliable", "deceiver"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "ihtiyaç nima?",
-      "answers": ["ehtiyoj", "xohish", "sovg‘a", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'mood' mean?",
+      "answers": ["fikr", "kayfiyat", "reja", "orzu"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ilan nima?",
-      "answers": ["e’lon", "xat", "so‘z", "taklif"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Kayfiyat so'zining inglizcha tarjimasi?",
+      "answers": ["thought", "mood", "plan", "dream"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "imdat nima?",
-      "answers": ["yordam", "xavf", "sovg‘a", "ish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'neighbourhood' mean?",
+      "answers": ["shahar", "mahalla", "davlat", "qishloq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "iş bölümü nima?",
-      "answers": ["ish taqsimoti", "ish boshlash", "ish tugatish", "ish joyi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mahalla so'zining inglizcha tarjimasi?",
+      "answers": ["city", "neighbourhood", "country", "village"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "işlem nima?",
-      "answers": ["jarayon", "xato", "harakat", "natija"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'ordinary' mean?",
+      "answers": ["g'ayrioddiy", "oddiy", "ajoyib", "noyob"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "jandarma nima?",
-      "answers": ["ichki ishlar jandarmi", "shifokor", "o‘qituvchi", "sotuvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Oddiy so'zining inglizcha tarjimasi?",
+      "answers": ["extraordinary", "ordinary", "wonderful", "unique"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kaban nima?",
-      "answers": ["palto", "ko‘ylak", "shim", "ayiqcha"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'patient' mean (as an adjective)?",
+      "answers": ["sabrsiz", "sabirli", "xafa", "shoshilgan"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kanat nima?",
-      "answers": ["qanot, dalil", "oyoq", "bosh", "qo‘l"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sabirli so'zining inglizcha tarjimasi?",
+      "answers": ["impatient", "patient", "angry", "hurried"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kiralık nima?",
-      "answers": ["ijaraga beriladigan", "sotiladigan", "tekin", "qarz"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'private' mean?",
+      "answers": ["omma", "shaxsiy", "ochiq", "umumiy"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kombi nima?",
-      "answers": ["kombi (uy va suv isitish moslamasi)", "suv isitgich", "gaz", "elektr"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Shaxsiy so'zining inglizcha tarjimasi?",
+      "answers": ["public", "private", "open", "general"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "konum nima?",
-      "answers": ["joylashuv", "narx", "vaqt", "holat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'recognise' mean?",
+      "answers": ["unutmoq", "tanimoq", "yashirmoq", "yo'qotmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "koza nima?",
-      "answers": ["pilla", "qanot", "arqon", "quvur"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tanimoq so'zining inglizcha tarjimasi?",
+      "answers": ["forget", "recognise", "hide", "lose"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "lavabo nima?",
-      "answers": ["qo‘l yuviladigan unitaz (xojatxona)", "pol", "devor", "tavan"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'relation' mean?",
+      "answers": ["ajralish", "munosabat", "yolg'izlik", "ziddiyat"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "lüks nima?",
-      "answers": ["hashamat, luks", "oddiy", "arzon", "qimmat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Munosabat so'zining inglizcha tarjimasi?",
+      "answers": ["separation", "relation", "loneliness", "conflict"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "manzara nima?",
-      "answers": ["ko‘rinish, manzara", "xato", "suv", "pol"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'rent' mean?",
+      "answers": ["sotish", "ijaraga olish / ijara", "sovg'a", "berish"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "masrafsız nima?",
-      "answers": ["xarajatsiz, bepul", "qimmat", "qarz", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ijaraga olish so'zining inglizcha tarjimasi?",
+      "answers": ["sell", "rent", "gift", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "mevki nima?",
-      "answers": ["mavqe, pozitsiya", "joy", "narx", "vaqt"],
+      "question": "What does 'respect' mean?",
+      "answers": ["hurmat qilish / hurmat", "hakorat", "e'tiborsizlik", "nofrat"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "muhit nima?",
-      "answers": ["muhit", "xato", "ish", "yordam"],
+      "question": "Hurmat qilish so'zining inglizcha tarjimasi?",
+      "answers": ["respect", "insult", "neglect", "hate"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "müstakil nima?",
-      "answers": ["xususiy", "umumiy", "ijaraga", "tekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'single' mean?",
+      "answers": ["uylangan", "bo'ydoq", "ajrashgan", "juft"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "nezih nima?",
-      "answers": ["yaxshi", "yomon", "oddiy", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Bo'ydoq so'zining inglizcha tarjimasi?",
+      "answers": ["married", "single", "divorced", "couple"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ödeme nima?",
-      "answers": ["tölo‘v", "qarz", "sovg‘a", "xizmat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'stranger' mean?",
+      "answers": ["do'st", "tanish", "begona odam", "qarindosh"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "ömür nima?",
-      "answers": ["umr", "yoshlik", "vaqt", "kun"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Begona odam so'zining inglizcha tarjimasi?",
+      "answers": ["friend", "acquaintance", "stranger", "relative"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "özellik nima?",
-      "answers": ["xususiyat", "narx", "shakl", "rang"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'trust' mean?",
+      "answers": ["ishonchsizlik", "ishonish / ishonch", "shubha", "xato"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "pazarlık nima?",
-      "answers": ["savdolashish", "sotish", "olish", "berish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ishonish so'zining inglizcha tarjimasi?",
+      "answers": ["distrust", "trust", "doubt", "mistake"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "pil nima?",
-      "answers": ["batareya", "suv", "elektr", "gaz"],
+      "question": "What does the phrasal verb 'bring up' mean?",
+      "answers": ["tarbiyalamoq (voyaga yetkazmoq)", "tushirmoq", "olib kelmoq", "yo'qotmoq"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "sahip nima?",
-      "answers": ["ega, sohib", "qarz", "xodim", "do‘st"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tarbiyalamoq (voyaga yetkazmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["bring down", "bring up", "bring in", "bring out"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "satır nima?",
-      "answers": ["chiziq", "nuqta", "doira", "kvadrat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'fall out (with)' mean?",
+      "answers": ["do'stlashmoq", "janjallashib ajrashmoq", "uchrashmoq", "yarashmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "satış nima?",
-      "answers": ["sotish", "olish", "berish", "savdo"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Janjallashib ajrashmoq so'zining inglizcha tarjimasi?",
+      "answers": ["make friends", "fall out (with)", "meet up", "make up"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sızıntı nima?",
-      "answers": ["oqish, sizib chiqish", "to‘xtash", "yopilish", "qurish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'get on (with)' mean?",
+      "answers": ["yomon munosabatda bo'lmoq", "yaxshi munosabatda bo'lmoq", "ajralishmoq", "tanishtirmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sigorta nima?",
-      "answers": ["sug‘urta, (elektr avtomati)", "xavf", "tölo‘v", "qarz"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Yaxshi munosabatda bo'lmoq so'zining inglizcha tarjimasi?",
+      "answers": ["get off (with)", "get on (with)", "split up", "introduce"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sözleşme nima?",
-      "answers": ["shartnoma", "xat", "e’lon", "taklif"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'go out with' mean?",
+      "answers": ["chiqib ketmoq", "sevgili bo'lmoq", "uylanmoq", "ajrashmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "şofben nima?",
-      "answers": ["suv isitgich", "kombi", "gaz", "elektr"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sevgili bo'lmoq so'zining inglizcha tarjimasi?",
+      "answers": ["go away", "go out with", "get married", "divorce"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tarife nima?",
-      "answers": ["retsept, toifa", "narx", "xizmat", "sovg‘a"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'grow up' mean?",
+      "answers": ["kichraymoq", "o'smoq (voyaga yetmoq)", "qarimoq", "o'zgarishmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "taşınma nima?",
-      "answers": ["ko‘chish", "qolish", "yurish", "sakrash"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "O'smoq (voyaga yetmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["shrink", "grow up", "age", "change"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "temel nima?",
-      "answers": ["asos", "ustun", "devor", "pol"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'let down' mean?",
+      "answers": ["qo'llab-quvvatlamoq", "ko'nglini qoldirmoq", "yordam bermoq", "rag'batlantirmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tesisatçı nima?",
-      "answers": ["santexnik", "ustoz", "shifokor", "sotuvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ko'nglini qoldirmoq so'zining inglizcha tarjimasi?",
+      "answers": ["support", "let down", "help", "encourage"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tuhaf nima?",
-      "answers": ["g‘alati", "oddiy", "tushunarli", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'look after' mean?",
+      "answers": ["e'tibor bermaslik", "g'amxo'rlik qilmoq", "qidirmoq", "kuzatmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tüketim nima?",
-      "answers": ["iste’mol", "sotish", "olish", "berish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "G'amxo'rlik qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["neglect", "look after", "look for", "watch"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ulaşım nima?",
-      "answers": ["transport, ulashish yo‘li", "joy", "vaqt", "narx"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'split up' mean?",
+      "answers": ["birlashmoq", "ajralishmoq (munosabatni tugatmoq)", "uchrashmoq", "sevmohq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "uygun nima?",
-      "answers": ["uyg‘un, mos", "noto‘g‘ri", "xato", "qiyin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ajralishmoq (munosabatni tugatmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["unite", "split up", "meet", "fall in love"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "uyum nima?",
-      "answers": ["moslik, uyum", "farq", "xato", "qarshilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'by yourself' mean?",
+      "answers": ["boshqalar bilan", "o'zing bilan", "yordam bilan", "birgalikda"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "vali nima?",
-      "answers": ["hokim", "shifokor", "o‘qituvchi", "xodim"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "O'zing bilan so'zining inglizcha tarjimasi?",
+      "answers": ["with others", "by yourself", "with help", "together"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "vana nima?",
-      "answers": ["vena, klapan", "quvur", "suv", "arqon"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'in common (with)' mean?",
+      "answers": ["farqli", "umumiy (bir xil)", "ajralib turuvchi", "alohida"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "vergi nima?",
-      "answers": ["soliq", "tölo‘v", "qarz", "sovg‘a"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Umumiy (bir xil) so'zining inglizcha tarjimasi?",
+      "answers": ["different", "in common (with)", "distinct", "separate"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yakınlık nima?",
-      "answers": ["yaqinlik", "uzoqlik", "farq", "moslik"],
+      "question": "What does 'in contact (with)' mean?",
+      "answers": ["aloqada", "aloqasi uzilgan", "chetda", "yolg'iz"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "yapışık nima?",
-      "answers": ["yopishgan", "alohida", "uzoq", "quruq"],
+      "question": "Aloqada so'zining inglizcha tarjimasi?",
+      "answers": ["in contact (with)", "out of touch", "aside", "alone"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "yuva nima?",
-      "answers": ["uya, in", "uy", "qadoq", "pol"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'in love (with)' mean?",
+      "answers": ["nofratda", "sevishgan", "behuzur", "betashvish"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "zam nima?",
-      "answers": ["narx oshishi, oylik oshishi", "narx pasayishi", "tölo‘v", "qarz"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sevishgan so'zining inglizcha tarjimasi?",
+      "answers": ["in hate", "in love (with)", "unhappy", "carefree"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "acele etmek nima?",
-      "answers": ["shoshilmoq", "sekinlashmoq", "to‘xtamoq", "yurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'on purpose' mean?",
+      "answers": ["tasodifan", "ataylab", "bilmay", "bevosita"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "akıtmak nima?",
-      "answers": ["drenaj, oqizmoq", "to‘xtatmoq", "yopmoq", "quritmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ataylab so'zining inglizcha tarjimasi?",
+      "answers": ["by accident", "on purpose", "unintentionally", "directly"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "atıştırmak nima?",
-      "answers": ["aperatif ovqatlanish, tezlikda yengil yemoq", "to‘yib ovqatlanmoq", "ichmoq", "pishirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'on your own' mean?",
+      "answers": ["jamoa bilan", "o'zingiz bilan", "oilaviy", "guruhli"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ayırmak nima?",
-      "answers": ["ayirmoq", "qo‘shmoq", "aralashtirmoq", "yig‘moq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "O'zingiz bilan so'zining inglizcha tarjimasi?",
+      "answers": ["with team", "on your own", "family", "group"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "basmak nima?",
-      "answers": ["bosmoq, ayb ustida ushlamoq", "yurmoq", "sakramoq", "otmoq"],
+      "question": "What is the noun form of 'able'?",
+      "answers": ["ability", "ableness", "ablement", "abling"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "benzemek nima?",
-      "answers": ["o‘xshamoq", "farqlanmoq", "ayirmoq", "qaramoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What is the adjective meaning 'not able'?",
+      "answers": ["disable", "unable", "disablen", "inable"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "boşaltmak nima?",
-      "answers": ["bo‘shatmoq", "to‘ldirmoq", "yopmoq", "ochmoq"],
+      "question": "What is the noun form of 'admire'?",
+      "answers": ["admiration", "admirer", "admiring", "admirable"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "bozulmak nima?",
-      "answers": ["aynimoq, achimoq, buzilmoq", "tuzatmoq", "yaxshilanmoq", "tozalamoq"],
+      "question": "What are the adjective forms of 'care'?",
+      "answers": ["careful and careless", "caring and cared", "careless and carer", "careful and caring"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "burkmak nima?",
-      "answers": ["paylarning shikastlanishi, lat yemoq", "tuzatmoq", "yuvmoq", "kesmoq"],
+      "question": "What is the noun form of 'confident'?",
+      "answers": ["confidence", "confidentness", "confiding", "confidential"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "değerlendirmek nima?",
-      "answers": ["qadrlantirmoq, baholash", "rad etmoq", "e’tiborsiz qoldirmoq", "xato qilmoq"],
+      "question": "What is the past tense of 'forgive'?",
+      "answers": ["forgave", "forgived", "forgiven", "forgiving"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "dikkat çekmek nima?",
-      "answers": ["boshqalarni diqqatini jalb qilish", "yashirmoq", "e’tiborsiz qoldirmoq", "so‘ramoq"],
+      "question": "What is the noun form of 'forgive'?",
+      "answers": ["forgiveness", "forgiver", "forgiving", "forgived"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "doldurmak nima?",
-      "answers": ["to‘ldirmoq", "bo‘shatmoq", "yopmoq", "ochmoq"],
+      "question": "What is the opposite of 'honest'?",
+      "answers": ["dishonest", "unhonest", "inhonest", "mishonest"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "eğmek nima?",
-      "answers": ["egmoq, bo‘ysundirmoq", "ko‘tarmoq", "yurmoq", "sakramoq"],
+      "question": "What is the noun form of 'honest'?",
+      "answers": ["honesty", "honestness", "honestment", "honestation"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "fışkırmak nima?",
-      "answers": ["otilib chiqmoq, fishqirib chiqmoq", "to‘xtamoq", "yopilmoq", "qurimoq"],
+      "question": "What is the noun form of 'introduce'?",
+      "answers": ["introduction", "introductor", "introducing", "introduced"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "harcamak nima?",
-      "answers": ["xarjlashmoq, sarflamoq", "tejammoq", "yig‘moq", "bermoq"],
+      "question": "What is the person form of 'lie' (someone who lies)?",
+      "answers": ["liar", "lier", "lying", "false"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "ısınmak nima?",
-      "answers": ["isinmoq", "sovimoq", "qurimoq", "ho‘llanmoq"],
+      "question": "What is the noun form of 'person'?",
+      "answers": ["personality", "personment", "personness", "personal"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "ilerletmek nima?",
-      "answers": ["oldinga olib chiqmoq, ilgari qilmoq", "orqaga qaytarmoq", "to‘xtatmoq", "sekinlashtirmoq"],
+      "question": "What is the adjective form of 'person'?",
+      "answers": ["personal", "personable", "personed", "personing"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "karşılaşmak nima?",
-      "answers": ["uchrashib qolmoq, qarshilashmoq", "ayrilmoq", "yashirmoq", "qochmoq"],
+      "question": "What are the noun forms of 'relate'?",
+      "answers": ["relative, relation, relationship", "relater, relating, related", "relativity, relator, relatable", "relational, relativism, relativist"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "kopmak nima?",
-      "answers": ["uzulmoq", "birikmoq", "yopilmoq", "ochilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: fond ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kurtulmak nima?",
-      "answers": ["qutulmoq, ozod bo‘lmoq", "qolmoq", "bog‘lanmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: jealous ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "önermek nima?",
-      "answers": ["taklif qilmoq, tavsiya qilmoq", "rad etmoq", "xato qilmoq", "so‘ramoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: kind ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "patlamak nima?",
-      "answers": ["portlamoq", "yopilmoq", "to‘xtamoq", "qurimoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: married ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "sığmak nima?",
-      "answers": ["sig‘moq", "chiqmoq", "kattalashmoq", "qisqarmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: proud ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sıkışmak nima?",
-      "answers": ["tiqilib qolmoq, siqilmoq", "bo‘shashmoq", "kengaymoq", "yurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: admire sb ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 3,
+      "time": 15
     },
     {
-      "question": "sızdırmak nima?",
-      "answers": ["sizdirmoq", "to‘xtatmoq", "yopmoq", "quritmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: apologise (to sb) ______",
+      "answers": ["with", "of", "to", "for"],
+      "correct_answer": 3,
+      "time": 15
     },
     {
-      "question": "söndürmek nima?",
-      "answers": ["o‘chirmoq, so‘ndirmoq", "yoqmoq", "isinmoq", "yuvmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: argue (with sb) ______",
+      "answers": ["with", "about", "to", "for"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "takip etmek nima?",
-      "answers": ["taqib qilmoq, kuzatmoq", "qochmoq", "yashirmoq", "to‘xtamoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: care ______",
+      "answers": ["with", "of", "about", "for"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "tartışmak nima?",
-      "answers": ["tortishmoq", "kelishmoq", "tinchlanmoq", "yordam bermoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: chat (to sb) ______",
+      "answers": ["with", "of", "about", "for"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "telaşlanmak nima?",
-      "answers": ["xavotir olmoq, tashvishlanmoq", "tinchlanmoq", "kulmoq", "dam olmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: an argument (with sb) ______",
+      "answers": ["with", "of", "about", "for"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "tercih etmek nima?",
-      "answers": ["tanlamoq, ma’qul ko‘rmoq", "rad etmoq", "e’tiborsiz qoldirmoq", "xato qilmoq"],
+      "question": "Complete the pattern: a relationship ______",
+      "answers": ["with", "of", "about", "for"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "teslim etmek nima?",
-      "answers": ["taslim qilmoq, topshirmoq", "olmoq", "rad etmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'fond of':",
+      "answers": ["She is fond to cats.", "She is fond of cats.", "She is fond with cats.", "She is fond for cats."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tıkanmak nima?",
-      "answers": ["tiqilmoq, tiqilib qolmoq", "bo‘shashmoq", "kengaymoq", "oqmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'jealous of':",
+      "answers": ["He is jealous to his brother's success.", "He is jealous of his brother's success.", "He is jealous with his brother's success.", "He is jealous for his brother's success."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "uğraşmak nima?",
-      "answers": ["o‘ralashmoq, ovora bo‘lmoq", "dam olmoq", "to‘xtamoq", "yurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'kind to':",
+      "answers": ["Be kind with animals.", "Be kind of animals.", "Be kind to animals.", "Be kind for animals."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "yadırgamak nima?",
-      "answers": ["g‘alati bo‘lib qolmoq, g‘alati deb bilmoq", "qabul qilmoq", "tushunmoq", "yaxshi ko‘rmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'married to':",
+      "answers": ["She is married with a doctor.", "She is married of a doctor.", "She is married to a doctor.", "She is married for a doctor."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "yansıtmak nima?",
-      "answers": ["aks ettirmoq", "yashirmoq", "o‘chirmoq", "qurimoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'proud of':",
+      "answers": ["I'm proud to my children.", "I'm proud of my children.", "I'm proud with my children.", "I'm proud for my children."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yardımcı olmak nima?",
-      "answers": ["yordam bermoq", "xato qilmoq", "rad etmoq", "qarshilashmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'admire sb for':",
+      "answers": ["I admire her to her honesty.", "I admire her of her honesty.", "I admire her with her honesty.", "I admire her for her honesty."],
+      "correct_answer": 3,
+      "time": 15
     },
     {
-      "question": "yığmak nima?",
-      "answers": ["toplamoq, yig‘moq", "tarqatmoq", "sotmoq", "bermoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'apologise (to sb) for':",
+      "answers": ["I apologise to you to my mistake.", "I apologise to you of my mistake.", "I apologise to you with my mistake.", "I apologise to you for my mistake."],
+      "correct_answer": 3,
+      "time": 15
     },
     {
-      "question": "zenginleşmek nima?",
-      "answers": ["boyimoq", "qashshoqlashmoq", "kamaymoq", "yuvmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'argue (with sb) about':",
+      "answers": ["They argued with each other to politics.", "They argued with each other of politics.", "They argued with each other about politics.", "They argued with each other for politics."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "başının etini yemek nima?",
-      "answers": ["ming‘irlab boshini og‘ritib yubormoq", "yordam bermoq", "tinchlantirmoq", "kulmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'care about':",
+      "answers": ["I care to your opinion.", "I care of your opinion.", "I care about your opinion.", "I care for your opinion."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "kalbini fethetmek nima?",
-      "answers": ["yuragini zabt qilmoq", "xafa qilmoq", "rad etmoq", "uzoqlashmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'chat (to sb) about':",
+      "answers": ["We chatted to them to our holiday.", "We chatted to them of our holiday.", "We chatted to them about our holiday.", "We chatted to them for our holiday."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'an argument (with sb) about':",
+      "answers": ["They had an argument with their neighbours to money.", "They had an argument with their neighbours of money.", "They had an argument with their neighbours about money.", "They had an argument with their neighbours for money."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'a relationship with':",
+      "answers": ["She has a good relationship to her parents.", "She has a good relationship of her parents.", "She has a good relationship with her parents.", "She has a good relationship for her parents."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "She has the ______ to speak three languages.",
+      "answers": ["able", "ability", "disabled", "unable"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "He felt great ______ for her bravery.",
+      "answers": ["admire", "admiration", "admiring", "admirable"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Be ______ when crossing the road.",
+      "answers": ["care", "careful", "careless", "caring"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "She spoke with ______ about her achievements.",
+      "answers": ["confident", "confidence", "confidently", "confidential"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "I asked for her ______ after the argument.",
+      "answers": ["forgive", "forgave", "forgiven", "forgiveness"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "______ is the best policy.",
+      "answers": ["Honest", "Dishonest", "Honesty", "Honestly"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "The ______ of the new employee was very formal.",
+      "answers": ["introduce", "introduction", "introductory", "introduced"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Don't trust him, he's a known ______.",
+      "answers": ["lie", "liar", "lying", "lied"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "She has a very outgoing ______.",
+      "answers": ["person", "personal", "personality", "personally"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "This is a ______ matter, not business.",
+      "answers": ["person", "personal", "personality", "personally"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "My close ______ came to visit me.",
+      "answers": ["relate", "relative", "relation", "relationship"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Our working ______ is very professional.",
+      "answers": ["relate", "relative", "relation", "relationship"],
+      "correct_answer": 3,
+      "time": 15
     }
   ]
 }

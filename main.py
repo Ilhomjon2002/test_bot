@@ -13,14 +13,14 @@ import logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = os.getenv("BOT_TOKEN", "7061995193:AAFMOJNR39xJdMqwDBTqShPa_ayXRfwDyzk")
+TOKEN = os.getenv("BOT_TOKEN", "8158654510:AAF2S_0EqqIXJe8bg8z7XZ4aV9UVFyZGp54")
 kullanici_verileri = {}  # {sohbet_id: {...}}
-quiz_katalogu = {"A1": [], "A2": [], "B1": [], "B2": []}
+quiz_katalogu = {"B1": []}
 
 def quiz_dosyalarini_yukle(dizin="quizzes"):
     global quiz_katalogu
-    quiz_katalogu = {"A1": [], "A2": [], "B1": [], "B2": []}
-    bolumler = ["A1", "A2", "B1", "B2"]
+    quiz_katalogu = {"B1": []}
+    bolumler = ["B1"]
     
     if not os.path.exists(dizin):
         os.makedirs(dizin)
@@ -91,10 +91,10 @@ async def quiz_listesi(update: Update, context: CallbackContext) -> None:
 async def bolumleri_goster(update: Update, context: CallbackContext, sohbet_id: int) -> None:
     quiz_dosyalarini_yukle()
     klavye = [
-        [InlineKeyboardButton("A1", callback_data="bolum_A1")],
-        [InlineKeyboardButton("A2", callback_data="bolum_A2")],
+        # [InlineKeyboardButton("A1", callback_data="bolum_A1")],
+        # [InlineKeyboardButton("A2", callback_data="bolum_A2")],
         [InlineKeyboardButton("B1", callback_data="bolum_B1")],
-        [InlineKeyboardButton("B2", callback_data="bolum_B2")]
+        # [InlineKeyboardButton("B2", callback_data="bolum_B2")]
     ]
     cevap_isareti = InlineKeyboardMarkup(klavye)
     await context.bot.send_message(sohbet_id, "Quyidagi bo‘limlardan birini tanlang:", reply_markup=cevap_isareti)
@@ -124,7 +124,7 @@ async def aralik_secimi_goster(update: Update, context: CallbackContext, sohbet_
     toplam_soru = len(quiz_verileri["questions"])
 
     araliklar = []
-    adim = 20  # Har bir bo'limda 20 ta savol
+    adim = 30  # Har bir bo'limda 20 ta savol
     for baslangic in range(0, toplam_soru, adim):
         bitis = min(baslangic + adim, toplam_soru)
         araliklar.append((baslangic, bitis))
@@ -138,7 +138,7 @@ async def aralik_secimi_goster(update: Update, context: CallbackContext, sohbet_
         for baslangic, bitis in araliklar
     ]
     cevap_isareti = InlineKeyboardMarkup(klavye)
-    await context.bot.send_message(sohbet_id, f"{quiz_verileri['name']} uchun savol oralig‘ini tanlang (20 tadan bo‘lingan):", reply_markup=cevap_isareti)
+    await context.bot.send_message(sohbet_id, f"{quiz_verileri['name']} uchun savol oralig‘ini tanlang (25 tadan bo‘lingan):", reply_markup=cevap_isareti)
 
 async def dugme_yonetici(update: Update, context: CallbackContext) -> None:
     sorgu = update.callback_query
@@ -207,7 +207,7 @@ async def quiz_gonder(update: Update, context: CallbackContext, sohbet_id: int, 
         logger.error(f"Noto‘g‘ri oralik: baslangic_idx={baslangic_idx}, bitis_idx={bitis_idx}, toplam_soru={toplam_soru}")
         return
 
-    await context.bot.send_message(sohbet_id, f"📌 {quiz_verileri['name']} testi boshlanmoqda! ({baslangic_idx + 1}-{bitis_idx} savollar, 20 tadan bo‘lingan)")
+    await context.bot.send_message(sohbet_id, f"📌 {quiz_verileri['name']} testi boshlanmoqda! ({baslangic_idx + 1}-{bitis_idx} savollar, 25 tadan bo‘lingan)")
     logger.info(f"Test boshlandi: sohbet_id={sohbet_id}, bolum={bolum}, quiz_idx={quiz_idx}")
 
     sorular = quiz_verileri["questions"][baslangic_idx:bitis_idx].copy()

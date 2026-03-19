@@ -1,0 +1,156 @@
+{
+  "test_title": "Unit 21",
+  "instructions": "Har bir savolga javob berish uchun 10 soniya vaqt beriladi. To'g'ri javobni tanlang.",
+  "questions": [
+    {
+      "question": "What is the meaning of 'accent'?",
+      "options": ["announcement", "pronunciation style", "website", "formal"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "'broadcast' so'zining ma'nosi nima?",
+      "options": ["to transmit by radio/TV", "to stop", "to call", "image"],
+      "correct_answer": 0,
+      "time": 10
+    },
+    {
+      "question": "nashr etmoq, chop etmoq",
+      "options": ["pronounce", "publish", "request", "whisper"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "What is the Uzbek meaning of 'formal'?",
+      "options": ["norasmiy", "aniq", "rasmiy", "oddiy"],
+      "correct_answer": 2,
+      "time": 10
+    },
+    {
+      "question": "signal, belgi",
+      "options": ["accent", "signal", "ring", "viewer"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "'to fill in' frazal fe'lining ma'nosi nima?",
+      "options": ["telefon qilmoq", "chop etmoq", "formani to'ldirmoq", "internetga ulanish"],
+      "correct_answer": 2,
+      "time": 10
+    },
+    {
+      "question": "What does 'hang up' mean?",
+      "options": ["to call again", "to disconnect a call", "to connect", "to type"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "ommaviy axborot vositalari",
+      "options": ["media", "Internet", "mobile phone", "website"],
+      "correct_answer": 0,
+      "time": 10
+    },
+    {
+      "question": "'aloqa qilmoq' so'zining inglizcha tarjimasi qaysi?",
+      "options": ["report", "contact", "pronounce", "link"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "to'xtatmoq (vaqtincha), pauza",
+      "options": ["interrupt", "pause", "cut off", "log off"],
+      "correct_answer": 1,
+      "time": 10
+    },
+    {
+      "question": "'deliver' (etkazib bermoq) fe‘lidan yasalgan ot (noun) qaysi?",
+      "options": ["delivery", "deliverance", "deliverer", "deliverable"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'express' (ifodalamoq) fe‘lidan yasalgan sifat (adjective) qaysi?",
+      "options": ["expression", "expressive", "expressly", "expressway"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "To‘g‘ri predlokni tanlang: We need to communicate ___ our partners.",
+      "options": ["on", "with", "about", "to"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "To‘g‘ri predlokni tanlang: She received a letter ___ her university.",
+      "options": ["from", "to", "about", "with"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'predict' so‘zining asosiy ma‘nosi nima?",
+      "options": ["orqaga qaytmoq", "bashorat qilmoq, oldindan aytmoq", "yashirinmoq", "ma‘lumot bermoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'information' (ma‘lumot) otining asosiy fe‘li (verb) qaysi?",
+      "options": ["form", "inform", "perform", "informative"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'connect' (ulanmoq) fe‘liga qarama-qarshi ma‘noni beruvchi prefiks qaysi?",
+      "options": ["re-", "mis-", "dis-", "un-"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Gapni to‘ldiring: Can you translate this article ___ English ___ Uzbek?",
+      "options": ["from... to", "from... into", "about... into", "with... to"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'secrecy' so‘zining eng yaqin ma‘nosi nima?",
+      "options": ["maxfiylik", "tezlik", "aniqlik", "sirli odam"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "To‘g‘ri variantni tanlang: He always comments ___ the latest news.",
+      "options": ["with", "to", "on", "about"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'express' fe‘li qanday hodisa (action noun) otini hosil qiladi?",
+      "options": ["expressive", "expression", "expressly", "expressiveness"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Gapni to‘ldiring: I need to send this package ___ my sister.",
+      "options": ["for", "with", "to", "about"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'speaker' (nutqchi) so‘zining asosiy fe‘li qaysi?",
+      "options": ["speech", "speak", "spoken", "spoke"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Agar 'certain' ishonchli ma‘nosida bo‘lsa, 'certainty' nimani anglatadi?",
+      "options": ["ishonchsizlik", "ishonchlilik, aniqlik", "ishonchli odam", "ishonch bilan"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Qaysi so‘z odatda 'about' predlogi bilan keladi: 'information ___ a topic'?",
+      "options": ["from", "about", "on", "with"],
+      "correct_answer": 1,
+      "time": 15
+    }
+  ]
+}

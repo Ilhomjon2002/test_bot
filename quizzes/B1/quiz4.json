@@ -1,1 +1,863 @@
-
+{
+  "name": "Unit 9",
+  "questions": [
+    {
+      "question": "What does 'abroad' mean?",
+      "answers": ["shaharda", "chetdagi (xorijda)", "qishloqda", "uyida"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Chetdagi (xorijda) so'zining inglizcha tarjimasi?",
+      "answers": ["in the city", "abroad", "in the village", "at home"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'accommodation' mean?",
+      "answers": ["transport", "yashash joyi", "ovqat", "o'yin"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yashash joyi so'zining inglizcha tarjimasi?",
+      "answers": ["transportation", "accommodation", "food", "entertainment"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'book' mean (as a verb)?",
+      "answers": ["o'qish", "bron qilmoq", "yozish", "sotish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Bron qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["read", "book", "write", "sell"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'break' mean (as a noun)?",
+      "answers": ["sinish", "ta'til", "boshlanish", "oxiri"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ta'til so'zining inglizcha tarjimasi?",
+      "answers": ["break", "start", "end", "work"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'cancel' mean?",
+      "answers": ["tasdiqlamoq", "bekor qilmoq", "uzaytirmoq", "qisqartirmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Bekor qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["confirm", "cancel", "extend", "shorten"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'catch' mean (in travel context)?",
+      "answers": ["ushlamoq", "yetib olmoq", "qo'ymoq", "kutmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yetib olmoq (transportga) so'zining inglizcha tarjimasi?",
+      "answers": ["drop", "catch", "put", "wait"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'coach' mean?",
+      "answers": ["samolyot", "avtobus", "poezd", "kema"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Avtobus (uzoq yo'l) so'zining inglizcha tarjimasi?",
+      "answers": ["plane", "coach", "train", "ship"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'convenient' mean?",
+      "answers": ["qulay", "noqulay", "qimmat", "arzon"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Qulay so'zining inglizcha tarjimasi?",
+      "answers": ["inconvenient", "convenient", "expensive", "cheap"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'crash' mean?",
+      "answers": ["sekin harakatlanish", "halokat / urilmoq", "silliq", "xavfsiz"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Halokat (transport) so'zining inglizcha tarjimasi?",
+      "answers": ["slow movement", "crash", "smooth", "safe"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'crowded' mean?",
+      "answers": ["bo'sh", "gavjum", "sokin", "tinch"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Gavjum so'zining inglizcha tarjimasi?",
+      "answers": ["empty", "crowded", "quiet", "peaceful"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'cruise' mean?",
+      "answers": ["sayohat kemasi", "tez poezd", "avtobus", "velosiped"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Sayohat kemasi so'zining inglizcha tarjimasi?",
+      "answers": ["cruise", "express train", "bus", "bicycle"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'delay' mean?",
+      "answers": ["tezlashtirish", "kechikish / kechiktirmoq", "bekor qilish", "boshlash"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Kechikish so'zining inglizcha tarjimasi?",
+      "answers": ["acceleration", "delay", "cancellation", "start"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'destination' mean?",
+      "answers": ["boshlang'ich nuqta", "yo'nalish", "manzil", "yo'l"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Manzil so'zining inglizcha tarjimasi?",
+      "answers": ["starting point", "direction", "destination", "route"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'ferry' mean?",
+      "answers": ["metro", "parom", "taksi", "tramvay"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Parom so'zining inglizcha tarjimasi?",
+      "answers": ["subway", "ferry", "taxi", "tram"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'flight' mean?",
+      "answers": ["parvoz", "sayohat", "yurish", "suzish"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Parvoz so'zining inglizcha tarjimasi?",
+      "answers": ["flight", "journey", "walk", "swim"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'foreign' mean?",
+      "answers": ["mahalliy", "xorijiy", "milliy", "davlat"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Xorijiy so'zining inglizcha tarjimasi?",
+      "answers": ["local", "foreign", "national", "state"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'harbour' mean?",
+      "answers": ["aeroport", "bandargoh", "stansiya", "terminal"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Bandargoh so'zining inglizcha tarjimasi?",
+      "answers": ["airport", "harbour", "station", "terminal"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'journey' mean?",
+      "answers": ["sayr", "sayohat", "dam olish", "ish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Sayohat (uzoq) so'zining inglizcha tarjimasi?",
+      "answers": ["walk", "journey", "rest", "work"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'luggage' mean?",
+      "answers": ["hujjatlar", "yuk", "pul", "kiyim"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yuk (sayohat) so'zining inglizcha tarjimasi?",
+      "answers": ["documents", "luggage", "money", "clothes"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'nearby' mean?",
+      "answers": ["uzoqda", "yaqin atrofda", "ortda", "oldinga"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yaqin atrofda so'zining inglizcha tarjimasi?",
+      "answers": ["far away", "nearby", "behind", "ahead"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'pack' mean?",
+      "answers": ["ochmoq", "yig'moq (yuklamoq)", "tashlamoq", "sotmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yig'moq (yuklamoq) so'zining inglizcha tarjimasi?",
+      "answers": ["unpack", "pack", "throw away", "sell"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'passport' mean?",
+      "answers": ["haydovchilik guvohnomasi", "pasport", "ID karta", "visa"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Pasport so'zining inglizcha tarjimasi?",
+      "answers": ["driver's license", "passport", "ID card", "visa"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'platform' mean?",
+      "answers": ["eshik", "platforma", "zal", "koridor"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Platforma (stansiyada) so'zining inglizcha tarjimasi?",
+      "answers": ["door", "platform", "hall", "corridor"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'public transport' mean?",
+      "answers": ["shaxsiy transport", "jamoat transporti", "yuk transporti", "tez transport"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Jamoat transporti so'zining inglizcha tarjimasi?",
+      "answers": ["private transport", "public transport", "cargo transport", "express transport"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'reach' mean?",
+      "answers": ["ketmoq", "yetib bormoq", "qaytmoq", "boshlash"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yetib bormoq so'zining inglizcha tarjimasi?",
+      "answers": ["leave", "reach", "return", "start"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'resort' mean?",
+      "answers": ["sanoat zonasi", "dam olish maskani", "savdo markazi", "tibbiyot markazi"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Dam olish maskani so'zining inglizcha tarjimasi?",
+      "answers": ["industrial zone", "resort", "shopping center", "medical center"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'souvenir' mean?",
+      "answers": ["ovqat", "sovg'a", "esdalik", "kiyim"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Esdalik (sayohatdan) so'zining inglizcha tarjimasi?",
+      "answers": ["food", "gift", "souvenir", "clothes"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'traffic' mean?",
+      "answers": ["havo", "yo'l harakati", "daryo", "piyoda yo'li"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yo'l harakati so'zining inglizcha tarjimasi?",
+      "answers": ["air", "traffic", "river", "sidewalk"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'trip' mean?",
+      "answers": ["uzoq sayohat", "qisqa sayohat", "ish", "o'qish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Qisqa sayohat so'zining inglizcha tarjimasi?",
+      "answers": ["long journey", "trip", "work", "study"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'vehicle' mean?",
+      "answers": ["yo'l", "transport vositasi", "yo'nalish", "manzil"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Transport vositasi so'zining inglizcha tarjimasi?",
+      "answers": ["road", "vehicle", "direction", "destination"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'get in(to)' mean?",
+      "answers": ["chiqmoq (mashinadan)", "kirish (mashinaga)", "tushmoq", "ko'tarmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Kirish (mashinaga) so'zining inglizcha tarjimasi?",
+      "answers": ["get out (of)", "get in(to)", "get off", "get up"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'get off' mean?",
+      "answers": ["chiqmoq (avtobusdan)", "kirish (avtobusga)", "o'tirmoq", "yurmoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Chiqmoq (avtobusdan) so'zining inglizcha tarjimasi?",
+      "answers": ["get off", "get on(to)", "sit down", "walk"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'get on(to)' mean?",
+      "answers": ["chiqmoq (poezddan)", "kirish (poezdga)", "tushmoq", "sakramoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Kirish (poezdga) so'zining inglizcha tarjimasi?",
+      "answers": ["get off", "get on(to)", "get down", "jump"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'get out (of)' mean?",
+      "answers": ["kirish (binoga)", "chiqish (binodan)", "ko'tarilish", "tushish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Chiqish (binodan) so'zining inglizcha tarjimasi?",
+      "answers": ["get in(to)", "get out (of)", "get up", "get down"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'go away' mean?",
+      "answers": ["kelmoq", "ketmoq", "qaytmoq", "kutmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ketmoq (joydan) so'zining inglizcha tarjimasi?",
+      "answers": ["come", "go away", "return", "wait"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'go back (to)' mean?",
+      "answers": ["yangi joyga borish", "qaytish (joyga)", "ketish", "kelish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Qaytish (joyga) so'zining inglizcha tarjimasi?",
+      "answers": ["go forward", "go back (to)", "go away", "come"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'set off' mean?",
+      "answers": ["tugatish", "sayohatni boshlash", "kutish", "to'xtash"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Sayohatni boshlash so'zining inglizcha tarjimasi?",
+      "answers": ["finish", "set off", "wait", "stop"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'take off' mean?",
+      "answers": ["qo'nmoq", "havoga ko'tarilish", "tezlashmoq", "sekinlashmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Havoga ko'tarilish so'zining inglizcha tarjimasi?",
+      "answers": ["land", "take off", "speed up", "slow down"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'by air/sea/bus/car/etc' mean?",
+      "answers": ["piyoda", "havo/dengiz/avtobus/mashina bilan", "velosipedda", "otda"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Havo yo'li bilan so'zining inglizcha tarjimasi?",
+      "answers": ["on foot", "by air", "by bicycle", "by horse"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'on board' mean?",
+      "answers": ["yerda", "bortda", "tashqarida", "tagida"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Bortda (transportda) so'zining inglizcha tarjimasi?",
+      "answers": ["on the ground", "on board", "outside", "under"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'on foot' mean?",
+      "answers": ["mashinada", "piyoda", "samolyotda", "kema"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Piyoda so'zining inglizcha tarjimasi?",
+      "answers": ["by car", "on foot", "by plane", "by ship"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'on holiday' mean?",
+      "answers": ["ishda", "ta'tilda", "o'qishda", "sayohatda"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ta'tilda so'zining inglizcha tarjimasi?",
+      "answers": ["at work", "on holiday", "at school", "on a trip"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'on schedule' mean?",
+      "answers": ["kechikib", "rejada", "erta", "bekor"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Rejada so'zining inglizcha tarjimasi?",
+      "answers": ["delayed", "on schedule", "early", "cancelled"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'on the coast' mean?",
+      "answers": ["cho'lida", "sohilida", "tog'ida", "vodiy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Sohilida so'zining inglizcha tarjimasi?",
+      "answers": ["in the desert", "on the coast", "in the mountains", "in the valley"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the adjective form of 'attract'?",
+      "answers": ["attraction", "attractive", "attracting", "attracted"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'attract'?",
+      "answers": ["attractive", "attraction", "attracting", "attracted"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the adverb form of 'back'?",
+      "answers": ["backwards", "backward", "backing", "backed"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the past tense of 'choose'?",
+      "answers": ["choose", "chose", "chosen", "choosing"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the past participle of 'choose'?",
+      "answers": ["choose", "chose", "chosen", "choosing"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'choose'?",
+      "answers": ["chooser", "choice", "choosing", "chose"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the adjective form of 'comfort'?",
+      "answers": ["comfortable", "comforting", "comforted", "comfortness"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the opposite adjective of 'comfortable'?",
+      "answers": ["uncomfortable", "discomfortable", "incomfortable", "noncomfortable"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'depart'?",
+      "answers": ["departure", "departer", "departing", "departed"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'direct'?",
+      "answers": ["direction", "director", "directing", "directed"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the past tense of 'drive'?",
+      "answers": ["drive", "drove", "driven", "driving"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the past participle of 'drive'?",
+      "answers": ["drive", "drove", "driven", "driving"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the person form of 'drive' (someone who drives)?",
+      "answers": ["driver", "drove", "driven", "driving"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the past tense of 'fly'?",
+      "answers": ["fly", "flew", "flown", "flying"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the past participle of 'fly'?",
+      "answers": ["fly", "flew", "flown", "flying"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'fly'?",
+      "answers": ["flyer", "flight", "flying", "flew"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the person form of 'travel'?",
+      "answers": ["traveller", "travelment", "traveling", "traveled"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the person form of 'visit'?",
+      "answers": ["visitor", "visitation", "visiting", "visited"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: close ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: famous ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: far ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: late ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: suitable ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: arrive ______",
+      "answers": ["at/in", "to/for", "with/by", "from/of"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: ask (sb) ______",
+      "answers": ["at", "about", "to", "from"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: ask ______",
+      "answers": ["at", "about", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: look ______",
+      "answers": ["at", "about", "for", "from"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: prepare ______",
+      "answers": ["at", "about", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: provide sb ______",
+      "answers": ["at", "about", "for", "with"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: wait ______",
+      "answers": ["at", "about", "for", "from"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'close to':",
+      "answers": ["The hotel is close with the beach.", "The hotel is close to the beach.", "The hotel is close for the beach.", "The hotel is close from the beach."],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'famous for':",
+      "answers": ["Paris is famous with the Eiffel Tower.", "Paris is famous to the Eiffel Tower.", "Paris is famous for the Eiffel Tower.", "Paris is famous from the Eiffel Tower."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'far from':",
+      "answers": ["The station is far with my house.", "The station is far to my house.", "The station is far for my house.", "The station is far from my house."],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'late for':",
+      "answers": ["I was late with the meeting.", "I was late to the meeting.", "I was late for the meeting.", "I was late from the meeting."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'suitable for':",
+      "answers": ["This dress is suitable with the occasion.", "This dress is suitable to the occasion.", "This dress is suitable for the occasion.", "This dress is suitable from the occasion."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'arrive at/in':",
+      "answers": ["We arrived to London at 5 PM.", "We arrived at London at 5 PM.", "We arrived in London at 5 PM.", "We arrived with London at 5 PM."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'ask (sb) about':",
+      "answers": ["I asked her to the weather.", "I asked her of the weather.", "I asked her about the weather.", "I asked her with the weather."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'ask for':",
+      "answers": ["He asked to help.", "He asked of help.", "He asked about help.", "He asked for help."],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'look at':",
+      "answers": ["Look to that beautiful view!", "Look at that beautiful view!", "Look for that beautiful view!", "Look with that beautiful view!"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'prepare for':",
+      "answers": ["We need to prepare to the exam.", "We need to prepare of the exam.", "We need to prepare for the exam.", "We need to prepare with the exam."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'provide sb with':",
+      "answers": ["The hotel provided us to towels.", "The hotel provided us of towels.", "The hotel provided us for towels.", "The hotel provided us with towels."],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'wait for':",
+      "answers": ["I waited to the bus for 30 minutes.", "I waited of the bus for 30 minutes.", "I waited about the bus for 30 minutes.", "I waited for the bus for 30 minutes."],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "The Eiffel Tower is a major tourist ______ in Paris.",
+      "answers": ["attract", "attractive", "attraction", "attracting"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "The hotel had very ______ rooms.",
+      "answers": ["comfort", "comfortable", "comforting", "comforted"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Our ______ time is at 3 PM from gate 5.",
+      "answers": ["depart", "departure", "departing", "departed"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Can you give me ______ to the train station?",
+      "answers": ["direct", "direction", "director", "directing"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "He ______ all the way from London to Edinburgh.",
+      "answers": ["drive", "drove", "driven", "driving"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "She has a professional ______ for long journeys.",
+      "answers": ["drive", "drove", "driven", "driver"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "The bird ______ south for the winter.",
+      "answers": ["fly", "flew", "flown", "flying"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Our ______ was delayed by bad weather.",
+      "answers": ["fly", "flight", "flying", "flew"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "The ______ from Australia arrived yesterday.",
+      "answers": ["travel", "traveller", "traveling", "traveled"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "We had many ______ from other countries.",
+      "answers": ["visit", "visitor", "visiting", "visited"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "The plane flew ______ due to strong winds.",
+      "answers": ["back", "backwards", "backing", "backed"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "You have to make a ______ between these two hotels.",
+      "answers": ["choose", "chose", "chosen", "choice"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "I ______ the window seat when I booked the ticket.",
+      "answers": ["choose", "chose", "chosen", "choice"],
+      "correct_answer": 1,
+      "time": 15
+    }
+  ]
+}

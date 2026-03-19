@@ -1,1 +1,479 @@
-
+{
+  "name": "Unit 18",
+  "questions": [
+    {
+      "question": "'Sun'iy' so'zining inglizcha tarjimasi nima?",
+      "answers": ["automatic", "artificial", "digital", "plastic"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'experiment (v, n)' mean in Uzbek?",
+      "answers": ["tajriba o'tkazmoq / tajriba", "kashf qilmoq", "operatsiya qilmoq", "dastur yozmoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'Avtomatik' ma'nosidagi so'zni toping",
+      "answers": ["artificial", "automatic", "digital", "exact"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'gadget (n)'?",
+      "answers": ["jihoz", "qurilma", "gadjet", "asbob"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Murakkab' so'zining inglizchasi qaysi?",
+      "answers": ["complicated", "automatic", "unique", "sudden"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'hardware (n)' mean?",
+      "answers": ["dasturiy ta'minot", "jihozlar", "kompyuter qismlari (fizik)", "ekran"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Kamaymoq / kamayish' ma'nosidagi so'zni aniqlang",
+      "answers": ["decrease", "increase", "operate", "discover"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'invert (v)'?",
+      "answers": ["aylantirmoq", "teskari qilmoq", "o'zgartirmoq", "boshqarmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Raqamli' so'zi ingliz tilida qanday?",
+      "answers": ["artificial", "automatic", "digital", "exact"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'involve (v)' mean in Uzbek?",
+      "answers": ["kashf qilmoq", "jalb qilmoq", "boshqarmoq", "baholamoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Kashf qilmoq' fe'lining inglizchasini toping",
+      "answers": ["discover", "operate", "research", "estimate"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'laboratory (n)'?",
+      "answers": ["ofis", "laboratoriya", "zavod", "kompaniya"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Ta'sir' ma'nosidagi so'zni aniqlang",
+      "answers": ["effect", "equipment", "lack", "sudden"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'lack (v, n)' mean?",
+      "answers": ["ortiqcha bo'lmoq", "yetishmaslik / yetishmas", "ta'sir qilmoq", "baholamoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Uskuna' so'zining inglizcha tarjimasi nima?",
+      "answers": ["gadget", "hardware", "equipment", "software"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'laptop (n)'?",
+      "answers": ["planshet", "noutbuk", "telefon", "kompyuter"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Baholamoq' fe'lining inglizchasini toping",
+      "answers": ["estimate", "operate", "discover", "research"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'maximum (adj)' mean in Uzbek?",
+      "answers": ["minimal", "maksimal", "o'rtacha", "aniq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Aniq' so'zi ingliz tilida qanday?",
+      "answers": ["exact", "sudden", "unique", "complicated"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'minimum (adj)'?",
+      "answers": ["maksimal", "minimal", "aniq", "murakkab"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Operatsiya qilmoq' ma'nosidagi fe'l qaysi?",
+      "answers": ["operate", "discover", "research", "estimate"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'plastic (n, adj)' mean?",
+      "answers": ["metallik", "plastik / plastmassadan", "raqamli", "sun'iy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Dastur (yozmoq)' so'zining inglizchasini toping",
+      "answers": ["program", "software", "hardware", "screen"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'research (n)'?",
+      "answers": ["tajriba", "tadqiqot", "kashfiyot", "operatsiya"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Ishlatmoq (dastur)' fe'lining inglizchasini aniqlang",
+      "answers": ["run", "operate", "program", "discover"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'screen (n)' mean in Uzbek?",
+      "answers": ["klaviatura", "ekran", "protsessor", "qurilma"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Dasturiy ta'minot' so'zi ingliz tilida qanday?",
+      "answers": ["hardware", "software", "gadget", "equipment"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'sudden (adj)'?",
+      "answers": ["sekin", "tushunarli", "to'satdan", "doimiy"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Texnologiya' so'zining inglizcha tarjimasi nima?",
+      "answers": ["technology", "equipment", "software", "laboratory"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'unique (adj)' mean?",
+      "answers": ["oddiy", "noyob", "murakkab", "sun'iy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Ishdan chiqmoq (mashina)' ma'nosidagi frazal fe'l qaysi?",
+      "answers": ["come across", "break down", "turn off", "throw away"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'come across'?",
+      "answers": ["topmoq (tasodifan)", "bilib olmoq", "o'ylab topmoq", "chiqarib tashlamoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'Bilib olmoq' frazal fe'lini toping",
+      "answers": ["find out", "make up", "pull off", "turn on"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'make up' mean in Uzbek?",
+      "answers": ["chiqarib tashlamoq", "o'chirib qo'ymoq", "o'ylab topmoq (bahona)", "tortib uzmoq"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Tortib uzmoq' iborasi uchun to'g'ri frazal fe'l belgilang",
+      "answers": ["pull off", "throw away", "turn off", "break down"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'throw away'?",
+      "answers": ["o'chirib qo'ymoq", "chiqarib tashlamoq", "yoqmoq", "tortib uzmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'O'chirib qo'ymoq (mashina)' ma'nosidagi frazal fe'l qaysi?",
+      "answers": ["turn off", "turn on", "break down", "come across"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'turn on' mean?",
+      "answers": ["o'chirib qo'ymoq", "yoqmoq (mashinani)", "buzilmoq", "topmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Nihoyat' ma'nosidagi predlogli iborani tanlang",
+      "answers": ["by chance", "in my opinion", "at last", "in the future"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the English for 'tasodifan'?",
+      "answers": ["at last", "by chance", "in the end", "out of order"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Mening fikrimcha' iborasi qaysi?",
+      "answers": ["in my opinion", "in the end", "in the future", "at last"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'in the end' mean in Uzbek?",
+      "answers": ["nihoyat", "oxirida", "kelajakda", "tuzatilishi kerak"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Kelajakda' ma'nosidagi iborani toping",
+      "answers": ["in the future", "in the end", "out of order", "at last"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'out of order'?",
+      "answers": ["tartibda", "tuzatilishi kerak", "oxirida", "tasodifan"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Kaynatuvchi' ma'nosidagi so'zning inglizchasini toping",
+      "answers": ["boil", "boiler", "boiling", "boiled"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'chemical (adj)'?",
+      "answers": ["kimyoviy", "kimyogar", "kimyo", "kimyonali"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'Kimyo' so'zining inglizcha tarjimasi nima?",
+      "answers": ["chemist", "chemical", "chemistry", "chemically"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'conclusion (n)' mean in Uzbek?",
+      "answers": ["tadqiqot", "xulosa", "kuzatish", "sinov"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Imtihon' so'zining inglizchasini toping",
+      "answers": ["examine", "examination", "examiner", "examining"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'examiner (n)'?",
+      "answers": ["imtihon", "imtihon topshiruvchi", "imtihon oluvchi", "tekshiruvchi"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Hayratlanarli' ma'nosidagi so'zni aniqlang",
+      "answers": ["fascinate", "fascination", "fascinating", "fascinated"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'fascination (n)' mean?",
+      "answers": ["hayratda qolish", "hayratlanarli", "hayratlantirish", "hayrat"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'Tarixiy' so'zining inglizchasini toping",
+      "answers": ["history", "historic", "historian", "historical"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'historian (n)'?",
+      "answers": ["tarix", "tarixiy", "tarixchi", "tarixiylik"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Aynan bir xil' ma'nosidagi so'zni toping",
+      "answers": ["identical", "identically", "identity", "identification"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'identical (adj)' mean in Uzbek?",
+      "answers": ["o'xshash", "bir xil", "farqli", "qiyosiy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Uzunlik' so'zining inglizcha tarjimasi nima?",
+      "answers": ["long", "length", "lengthen", "lengthy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the English translation of 'o'lchov'?",
+      "answers": ["measure", "measurement", "measurable", "measuring"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Olim' ma'nosidagi so'zni aniqlang",
+      "answers": ["science", "scientific", "scientist", "scientifically"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'science (n)' mean in Uzbek?",
+      "answers": ["ilmiy", "olim", "fan", "tadqiqot"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... dan farqli' ma'nosidagi sifat birikmasini toping",
+      "answers": ["different from/to", "full of", "identical to", "similar to"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'different from/to'?",
+      "answers": ["... ga o'xshash", "... bilan bir xil", "... dan farqli", "... bilan to'la"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... bilan to'la' iborasi uchun to'g'ri javobni belgilang",
+      "answers": ["different from", "full of", "similar to", "identical to"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'full of' mean?",
+      "answers": ["... dan bo'sh", "... bilan to'la", "... ga o'xshash", "... dan farqli"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'... bilan boshlamoq' fe'l birikmasi qaysi?",
+      "answers": ["begin sth with", "connect sth to", "fill sth with", "disconnect sth from"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the English for '... ga ulamoq'?",
+      "answers": ["begin sth with", "connect sth to/with", "fill sth with", "disconnect sth from"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'... dan uzmoq (aloqani)' iborasi qaysi?",
+      "answers": ["connect sth to", "disconnect sth from", "begin sth with", "fill sth with"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'fill sth with' mean in Uzbek?",
+      "answers": ["... dan uzmoq", "... ga ulamoq", "... bilan to'ldirmoq", "... bilan boshlamoq"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... natijasida' ma'nosidagi ot birikmasini toping",
+      "answers": ["a difference between", "an idea about", "result in", "a reason for"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'result in'?",
+      "answers": ["... haqida g'oya", "... o'rtasidagi farq", "... natijasida", "... sababi"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... o'rtasidagi farq' iborasi qaysi?",
+      "answers": ["a difference between", "an idea about", "a number of", "a type of"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'a difference between' mean?",
+      "answers": ["... haqida g'oya", "... o'rtasidagi farq", "... sababi", "... turi"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'... haqida g'oya' ma'nosidagi iborani toping",
+      "answers": ["a reason for", "an idea about", "a type of", "a number of"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'an idea about'?",
+      "answers": ["... sababi", "... turi", "... haqida g'oya", "... miqdori"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... miqdori' iborasi uchun to'g'ri javobni belgilang",
+      "answers": ["a number of", "a type of", "a reason for", "an idea about"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'a number of' mean in Uzbek?",
+      "answers": ["... turi", "... sababi", "... miqdori", "... haqida g'oya"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... sababi' ma'nosidagi ot birikmasi qaysi?",
+      "answers": ["a reason for", "a type of", "a number of", "an idea about"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the English for '... turi'?",
+      "answers": ["a reason for", "a type of", "a number of", "an idea about"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'a type of' mean?",
+      "answers": ["... sababi", "... turi", "... miqdori", "... haqida g'oya"],
+      "correct_answer": 1,
+      "time": 15
+    }
+  ]
+}

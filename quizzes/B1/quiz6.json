@@ -1,1 +1,323 @@
-
+{
+  "name": "Unit 3",
+  "questions": [
+    {
+      "question": "What is the English translation of 'yutmoq (musobaqada)'?",
+      "answers": ["defeat", "support", "challenge", "organise"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'beat (v)'?",
+      "answers": ["yutmoq (raqibni)", "hisob", "yutqizmoq", "yordam bermoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'Konsert' so'zining inglizcha tarjimasi nima?",
+      "answers": ["concert", "competition", "pleasure", "gym"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'organise (v)' mean in Uzbek?",
+      "answers": ["qiziqmoq", "yutmoq", "tashkil qilmoq", "qo'llab-quvvatlamoq"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Stol ustida o'yin' ingliz tilida qanday aytiladi?",
+      "answers": ["video game", "team game", "board game", "group game"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the meaning of 'defeat (v, n)'?",
+      "answers": ["yordam", "mag'lubiyat", "muvaffaqiyat", "yutqizmoq / mag'lubiyat"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'Mamnuniyat' so'zi ingliz tilida qanday?",
+      "answers": ["pleasure", "risk", "rhythm", "interest"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'captain (n)' mean in Uzbek?",
+      "answers": ["murabbiy", "jamoa", "raqib", "kapitan"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'O'yin-qiziqarli' inglizcha tarjimasi nima?",
+      "answers": ["challenging", "entertaining", "interesting", "risky"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'referee (n)'?",
+      "answers": ["murabbiy", "hakam", "kapitan", "rahib"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Qiyin vazifa' ma'nosidagi so'zning inglizchasini toping",
+      "answers": ["competition", "challenge", "risk", "support"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'folk music (n phr)' mean?",
+      "answers": ["klassik musiqa", "zamonaviy musiqa", "xalq musiqasi", "ritmik musiqa"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Ritm' so'zining inglizcha tarjimasi qaysi?",
+      "answers": ["rhythm", "pleasure", "score", "beat"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the meaning of 'champion (n)' in Uzbek?",
+      "answers": ["raqib", "g'olib", "jamoa", "murabbiy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Guruh' ingliz tilida qanday aytiladi?",
+      "answers": ["team", "club", "group", "member"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'risk (v, n)' mean?",
+      "answers": ["yutmoq", "yordam bermoq", "xavf / xavf ostiga qo'ymoq", "musobaqalashmoq"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Aldamoq' fe'lining inglizcha moslashuvini toping",
+      "answers": ["cheat", "beat", "defeat", "train"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'gym (n)'?",
+      "answers": ["stadion", "sport zali", "klub", "maydon"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Hisob (olmoq)' ma'nosidagi so'zni aniqlang",
+      "answers": ["score", "beat", "defeat", "challenge"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'classical music (n phr)' mean in Uzbek?",
+      "answers": ["xalq musiqasi", "zamonaviy musiqa", "klassik musiqa", "ritmik musiqa"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Qiziqish' so'zi ingliz tilida qanday?",
+      "answers": ["pleasure", "interest", "rhythm", "risk"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the English translation of 'qo'llab-quvvatlamoq'?",
+      "answers": ["challenge", "support", "organise", "train"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Jamoa' ma'nosidagi so'zning inglizchasini toping",
+      "answers": ["group", "team", "club", "member"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'coach (n)' mean in Uzbek?",
+      "answers": ["kapitan", "murabbiy", "hakam", "raqib"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Raqib' so'zining inglizcha tarjimasi qaysi?",
+      "answers": ["captain", "coach", "opponent", "referee"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the meaning of 'train (v)'?",
+      "answers": ["o'qitmoq", "o'ynamoq", "mashq qilmoq", "musobaqalashmoq"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Video o'yin' ingliz tilida qanday aytiladi?",
+      "answers": ["board game", "team game", "video game", "computer game"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Harakat' ma'nosidagi so'zning inglizchasini toping",
+      "answers": ["act", "action", "active", "actor"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'heroic (adj)'?",
+      "answers": ["qahramonona", "musiqiy", "mashq qiluvchi", "yig'uvchi"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "'Athlete' so'zidan hosil bo'lgan 'atletik' ma'nodagi sifatni toping",
+      "answers": ["athletic", "athletics", "athletically", "athletism"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'musician (n)' mean in Uzbek?",
+      "answers": ["musiqa", "musiqiy", "musiqachi", "musiqaviy"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Bolalik' so'zining inglizcha tarjimasi nima?",
+      "answers": ["child", "children", "childhood", "childish"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the English translation of 'o'yinchi'?",
+      "answers": ["play", "player", "playful", "playing"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'Yig'ish' ma'nosidagi ot shaklini toping",
+      "answers": ["collect", "collection", "collector", "collecting"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'sailor (n)' mean in Uzbek?",
+      "answers": ["suzuvchi", "dengizchi", "yelkanli", "suzish"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'O'yin-kulgi' so'zining inglizchasini aniqlang",
+      "answers": ["entertain", "entertainment", "entertaining", "entertainer"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'singer (n)'?",
+      "answers": ["qo'shiq", "kuylash", "qo'shiqchi", "kuylanuvchi"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... dan zerikkan' ifodasi uchun to'g'ri so'zni tanlang",
+      "answers": ["bored with", "crazy about", "good at", "interested in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the English for '... haqida qiziqish'?",
+      "answers": ["bored with", "crazy about", "good at", "interested in"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'... ga ishtiyoqli' ma'nosini ifodalovchi iborani toping",
+      "answers": ["popular with", "keen on", "good at", "bored with"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'crazy about' mean in Uzbek?",
+      "answers": ["... dan zerikkan", "... haqida qiziqqan", "... ga aqldan ozgan", "... da yaxshi"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... bilan mashhur' ifodasi uchun to'g'ri so'zni tanlang",
+      "answers": ["popular with", "keen on", "good at", "interested in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek translation of 'good at'?",
+      "answers": ["... dan yaxshi", "... da yaxshi", "... ga ishtiyoqli", "... haqida qiziqqan"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'... kabi his qilmoq' fe'l birikmasi qaysi?",
+      "answers": ["feel like", "listen to", "take part in", "a fan of"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'listen to' mean?",
+      "answers": ["qatnashmoq", "tinglamoq", "his qilmoq", "muxlis bo'lmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "'... da qatnashmoq' iborasi uchun to'g'ri javobni belgilang",
+      "answers": ["feel like", "listen to", "take part in", "a book about"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the English for '... tomonidan yozilgan kitob'?",
+      "answers": ["a book about", "a fan of", "a game against", "a book by"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'... haqida kitob' ifodasini toping",
+      "answers": ["a book by", "a fan of", "a book about", "a game against"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What does 'a fan of' mean in Uzbek?",
+      "answers": ["... haqida kitob", "... ga qarshi o'yin", "... ning muxlisi", "... tomonidan kitob"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'... ga qarshi o'yin' iborasi qaysi?",
+      "answers": ["a book about", "a fan of", "a game against", "a book by"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "'Inactive' so'zining ma'nosini toping",
+      "answers": ["faol", "harakatli", "harakatsiz", "aktyor"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the Uzbek meaning of 'heroine (n)'?",
+      "answers": ["qahramon (erkak)", "qahramona", "qahramonlik", "qahramon (ayol)"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "'Playful' so'zi nimani anglatadi?",
+      "answers": ["o'yinchi", "o'ynoq", "o'ynovchi", "o'yin"],
+      "correct_answer": 1,
+      "time": 15
+    }
+  ]
+}

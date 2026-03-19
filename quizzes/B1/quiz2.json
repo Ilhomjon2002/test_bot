@@ -1,1037 +1,797 @@
 {
-  "name": "Unit 2",
+  "name": "Unit 15",
   "questions": [
     {
-      "question": "abur cubur nima?",
-      "answers": ["mayda-chuyda", "to‘yimli taom", "suv", "ichimlik"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "esnek nima?",
-      "answers": ["moslashuvchan, ergiluvchan", "qattiq", "o‘zgarmas", "sekin"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "metabolizma nima?",
-      "answers": ["metabolizm", "harakat", "nafas", "ovqat"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "verimsiz nima?",
-      "answers": ["samarasiz", "samarali", "tez", "foydali"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "izin vermek nima?",
-      "answers": ["ruxsat bermoq", "man qilmoq", "rad etmoq", "kechiktirmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "amaç nima?",
-      "answers": ["maqsad", "xato", "yordam", "vaqt"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "etkileyici nima?",
-      "answers": ["ta’sir o‘tkazadigan, ta’sir qiluvchi", "oddiy", "sekin", "qiziqsiz"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "nakış nima?",
-      "answers": ["naqsh", "rang", "shakl", "chiziq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yağ nima?",
-      "answers": ["yog‘", "suv", "gaz", "tuz"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kaçınmak nima?",
-      "answers": ["qochmoq", "yaqinlashmoq", "qidirmoq", "topmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "ambalaj nima?",
-      "answers": ["qadoq", "quti", "sumka", "qog‘oz"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "etkin nima?",
-      "answers": ["samarali, ta’sir qiladigan", "samarasiz", "oddiy", "sekin"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "organizasyon nima?",
-      "answers": ["tashkilot, tashkil qilingan", "tartibsizlik", "xato", "yordam"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yaradılış nima?",
-      "answers": ["yaratilish", "buzilish", "o‘zgarish", "tugatish"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kanıtlamak nima?",
-      "answers": ["isbotlash, dalil keltirmoq", "rad etmoq", "yashirmoq", "so‘ramoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "amiral nima?",
-      "answers": ["admiral", "soldat", "shifokor", "o‘qituvchi"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "farklılık nima?",
-      "answers": ["farqlilik, farq", "o‘xshashlik", "moslik", "bir xillik"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "ortam nima?",
-      "answers": ["muhit", "joy", "vaqt", "xato"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yaşayış nima?",
-      "answers": ["yashash holati", "sayohat", "ish", "o‘yin"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kaptırmak nima?",
-      "answers": ["tutilmoq", "qochmoq", "topmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "arzu nima?",
-      "answers": ["orzu", "xavf", "xato", "qarz"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "fırsat nima?",
-      "answers": ["fursat, shans", "qiyinchilik", "xavf", "kechikish"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "ödül nima?",
-      "answers": ["mukofot, sovrin", "jarima", "qarz", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yenik nima?",
-      "answers": ["mag‘lub", "g‘olib", "birinchi", "oxirgi"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kırılmak nima?",
-      "answers": ["sinmoq", "tuzalmoq", "yopilmoq", "ochilmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "asgari nima?",
-      "answers": ["eng kam", "eng ko‘p", "o‘rtacha", "tekin"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "firma nima?",
-      "answers": ["firma", "uy", "do‘kon", "maktab"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "öğe nima?",
-      "answers": ["element", "qism", "butun", "xato"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yenilikçi nima?",
-      "answers": ["yangilikchi", "eskicha", "oddiy", "qadimiy"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kurmak nima?",
-      "answers": ["qurmoq, tashkil qilmoq", "buzmoq", "tugatmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "aşağılama nima?",
-      "answers": ["pastga urmoq, obro‘sizlantirmoq", "ulug‘lashmoq", "hurmat qilmoq", "yordam bermoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "fiziksel nima?",
-      "answers": ["jismoniy", "ruhiy", "aqliy", "hissiy"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "örgüt nima?",
-      "answers": ["tashkilot (terör örgütü - terrorizm tashkiloti)", "guruh", "do‘stlar", "oilalar"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yetenek nima?",
-      "answers": ["iste’dod", "bilim", "tajriba", "xato"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "kurtarmak nima?",
-      "answers": ["qutqarmoq, saqlab qolmoq", "xavfga solmoq", "yo‘qotmoq", "buzmoq"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "aşırı nima?",
-      "answers": ["oshiri daraja, haddan ortiq", "kam", "o‘rtacha", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "fizyolojik nima?",
-      "answers": ["fiziologik", "jismoniy", "ruhiy", "texnik"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "özellik nima?",
-      "answers": ["xususiyat", "narx", "shakl", "rang"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "yetişkin nima?",
-      "answers": ["voyaga yetgan", "yosh", "bola", "o‘smir"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "motive etmek nima?",
-      "answers": ["ruhlantirmoq, motivatsiya", "tushkunlikka solmoq", "to‘xtatmoq", "rad etmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'advertisement' mean?",
+      "answers": ["savdo", "reklama", "chek", "narx"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ayrıntı nima?",
-      "answers": ["batafsil", "umumiy", "qisqa", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
-    },
-    {
-      "question": "geçici nima?",
-      "answers": ["vaqtinchalik", "doimiy", "uzoq", "tez"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Reklama so'zining inglizcha tarjimasi?",
+      "answers": ["sale", "advertisement", "receipt", "price"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "özenli nima?",
-      "answers": ["g‘amxo‘r", "beparvo", "shoshilinch", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'afford' mean?",
+      "answers": ["sotib olish", "haqqi bor (puli yetadi)", "sotmoq", "berilmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "zafer nima?",
-      "answers": ["g‘alaba", "mag‘lubiyat", "xato", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Haqqi bor (puli yetadi) so'zining inglizcha tarjimasi?",
+      "answers": ["buy", "afford", "sell", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "paylaşmak nima?",
-      "answers": ["baham ko‘rmoq", "yashirmoq", "olmoq", "sotmoq"],
+      "question": "What does 'bargain' mean?",
+      "answers": ["kelishuv, arzon narxda tovar", "qimmat tovar", "chek", "kvitansiya"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "azim nima?",
-      "answers": ["qaror", "shubha", "xato", "tashvish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Kelishuv, arzon narxda tovar so'zining inglizcha tarjimasi?",
+      "answers": ["expensive item", "bargain", "receipt", "invoice"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "geleneksel nima?",
-      "answers": ["an’anaviy", "yangi", "oddiy", "tekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'brand' mean?",
+      "answers": ["sifat", "brend (marka)", "paket", "o'lcham"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "özgü nima?",
-      "answers": ["o‘ziga xoslik", "umumiy", "bir xil", "farqli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Brend (marka) so'zining inglizcha tarjimasi?",
+      "answers": ["quality", "brand", "package", "size"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "zahmetli nima?",
-      "answers": ["zahmatli, mashaqqatli", "oson", "tekin", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'catalogue' mean?",
+      "answers": ["hisob", "katalog", "ro'yxat", "jadval"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "rica etmek nima?",
-      "answers": ["iltimos qilmoq", "rad etmoq", "talab qilmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Katalog so'zining inglizcha tarjimasi?",
+      "answers": ["account", "catalogue", "list", "table"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "baskı nima?",
-      "answers": ["nashr, zulm", "yordam", "sovg‘a", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'change' mean (as a noun)?",
+      "answers": ["o'zgarish", "qaytim (pul)", "narx", "chek"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "gıda nima?",
-      "answers": ["oziq-ovqat", "suv", "ichimlik", "qadoq"],
+      "question": "Qaytim (pul) so'zining inglizcha tarjimasi?",
+      "answers": ["change", "price", "receipt", "bill"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "paralel nima?",
-      "answers": ["paralel", "perpendikulyar", "qiyshiq", "to‘g‘ri"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'coin' mean?",
+      "answers": ["banknot", "tangacha", "karta", "chek"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "zorluk nima?",
-      "answers": ["qiyinchilik", "osonlik", "yordam", "foyda"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tangacha so'zining inglizcha tarjimasi?",
+      "answers": ["banknote", "coin", "card", "check"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "başarı nima?",
-      "answers": ["yutuq, muvaffaqiyat", "mag‘lubiyat", "xato", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'cost' mean (as a verb)?",
+      "answers": ["sotmoq", "turmoq (narxi)", "olmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "girişimci nima?",
-      "answers": ["kirishuvchan", "yopiq", "sekin", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Turmoq (narxi) so'zining inglizcha tarjimasi?",
+      "answers": ["sell", "cost", "buy", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "parlak nima?",
-      "answers": ["yaltiroqlik", "xira", "qorong‘i", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'customer' mean?",
+      "answers": ["sotuvchi", "mijoz", "direktor", "ishchi"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sağlamak nima?",
-      "answers": ["ta’minlash", "yo‘qotmoq", "buzmoq", "rad etmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mijoz so'zining inglizcha tarjimasi?",
+      "answers": ["seller", "customer", "director", "worker"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "başlık nima?",
-      "answers": ["sarlavha", "matn", "xat", "rasm"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'debt' mean?",
+      "answers": ["foyda", "qarz", "pul", "investitsiya"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "görev nima?",
-      "answers": ["vazifa, yumush", "dam olish", "o‘yin", "sayohat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qarz so'zining inglizcha tarjimasi?",
+      "answers": ["profit", "debt", "money", "investment"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "performans nima?",
-      "answers": ["layoqat, g‘ayrat", "dangasalik", "sekinlik", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'demand' mean (as a verb)?",
+      "answers": ["taklif qilmoq", "talab qilmoq", "bermoq", "olmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "beklenti nima?",
-      "answers": ["umidvorlik", "tushkunlik", "xavotir", "shubha"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Talab qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["offer", "demand", "give", "take"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "görünüm nima?",
-      "answers": ["ko‘rinish", "yashirinlik", "xato", "so‘z"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'export' mean?",
+      "answers": ["import qilmoq", "eksport qilmoq", "sotmoq", "sotib olmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "planlama nima?",
-      "answers": ["rejalashtirish", "tartibsizlik", "kechikish", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Eksport qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["import", "export", "sell", "buy"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "akıldan geçirmek nima?",
-      "answers": ["hayoldan o‘tkazmoq", "unutmoq", "rad etmoq", "yozmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'fee' mean?",
+      "answers": ["pul", "haq (to'lov)", "sovg'a", "qarz"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "saymak nima?",
-      "answers": ["sanamoq", "ayirmoq", "qo‘shmoq", "bo‘lmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Haq (to'lov) so'zining inglizcha tarjimasi?",
+      "answers": ["money", "fee", "gift", "debt"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "benzerlik nima?",
-      "answers": ["o‘xshashlik", "farqlilik", "xato", "qarshilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'fortune' mean?",
+      "answers": ["kambag'allik", "boylik, omad", "qarz", "investitsiya"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "görünüş nima?",
-      "answers": ["ko‘rinish", "yashirinlik", "xato", "so‘z"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Boylik, omad so'zining inglizcha tarjimasi?",
+      "answers": ["poverty", "fortune", "debt", "investment"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "püf noktası nima?",
-      "answers": ["fokus (ishning ko‘zi)", "xato", "qiyinchilik", "oddiy narsa"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'import' mean?",
+      "answers": ["eksport qilmoq", "import qilmoq", "sotmoq", "sotib olmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "aklına getirmek nima?",
-      "answers": ["hayoliga keltirmoq", "unutmoq", "rad etmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Import qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["export", "import", "sell", "buy"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sıyrılmak nima?",
-      "answers": ["chiqib ketmoq, siyrilmoq", "kirib qolmoq", "tiqilib qolmoq", "qolmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'invest' mean?",
+      "answers": ["sarflamoq", "investitsiya qilmoq", "yo'qotmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "beslenme nima?",
-      "answers": ["oziqlanish", "ichish", "uxlash", "yurish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Investitsiya qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["spend", "invest", "lose", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "güç nima?",
-      "answers": ["kuch", "zaiflik", "sekinlik", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'obtain' mean?",
+      "answers": ["yo'qotmoq", "olmoq (erishmoq)", "bermoq", "sotmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "rastgele nima?",
-      "answers": ["rostdan ham", "tasodifan", "maxsus", "rejalashtirilgan"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Olmoq (erishmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["lose", "obtain", "give", "sell"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "aksamak nima?",
-      "answers": ["oqsamoq", "yurmoq", "sakramoq", "yugurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'owe' mean?",
+      "answers": ["bermoq", "qarzdor bo'lmoq", "olmoq", "sotmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "söz nima?",
-      "answers": ["va’da", "xato", "so‘z", "harakat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qarzdor bo'lmoq so'zining inglizcha tarjimasi?",
+      "answers": ["give", "owe", "take", "sell"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tutmak nima?",
-      "answers": ["ushlamoq, tutmoq", "qochmoq", "yashirmoq", "otmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'own' mean?",
+      "answers": ["sotmoq", "ega bo'lmoq", "bermoq", "ijara olmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "birey nima?",
-      "answers": ["shaxs", "guruh", "jamiyat", "oilada"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ega bo'lmoq so'zining inglizcha tarjimasi?",
+      "answers": ["sell", "own", "give", "rent"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "günlük nima?",
-      "answers": ["kunlik", "haftalik", "oylik", "yillik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'profit' mean?",
+      "answers": ["zarar", "foyda", "xarajat", "investitsiya"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "rastlantı nima?",
-      "answers": ["tasodifan qarshilashish", "rejalashtirilgan", "maxsus", "doimiy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Foyda so'zining inglizcha tarjimasi?",
+      "answers": ["loss", "profit", "expense", "investment"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "anımsamak nima?",
-      "answers": ["eslamoq", "unutmoq", "yozmoq", "o‘qimoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'property' mean?",
+      "answers": ["qarz", "mulk", "pul", "savdo"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "şikayet etmek nima?",
-      "answers": ["shikoyat qilmoq", "maqtamoq", "yordam bermoq", "tinchlanmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Mulk so'zining inglizcha tarjimasi?",
+      "answers": ["debt", "property", "money", "trade"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "cazip nima?",
-      "answers": ["jozibali, jozibador", "qiziqsiz", "oddiy", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'purchase' mean?",
+      "answers": ["sotish", "xarid qilish / xarid", "berish", "ijara"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "hastalık nima?",
-      "answers": ["kasallik", "sog‘lik", "kuch", "quvvat"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Xarid qilish so'zining inglizcha tarjimasi?",
+      "answers": ["sale", "purchase", "giving", "rent"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "risk nima?",
-      "answers": ["xavf, risk", "ishonch", "yordam", "foyda"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'receipt' mean?",
+      "answers": ["chek", "kvitansiya", "hisob", "narx"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "artmak nima?",
-      "answers": ["ko‘paymoq", "kamaymoq", "to‘xtamoq", "qisqarmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Kvitansiya so'zining inglizcha tarjimasi?",
+      "answers": ["check", "receipt", "account", "price"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tamamlamak nima?",
-      "answers": ["tamomlamoq, bitirmoq", "boshlamoq", "kechiktirmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'require' mean?",
+      "answers": ["taklif qilmoq", "talab qilmoq", "rad etmoq", "qabul qilmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "çalışan nima?",
-      "answers": ["ishlaydigan ishchi, ishchi", "dangasa", "talaba", "shifokor"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Talab qilmoq (kerak bo'lmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["offer", "require", "reject", "accept"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "hedef nima?",
-      "answers": ["maqsad, nishon", "xato", "qiyinchilik", "yordam"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'sale' mean?",
+      "answers": ["xarid", "sotuv", "ijara", "ayirboshlash"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "saklı nima?",
-      "answers": ["yashirin", "ochiq", "ko‘rinadigan", "aniq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sotuv so'zining inglizcha tarjimasi?",
+      "answers": ["purchase", "sale", "rent", "exchange"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "aşmak nima?",
-      "answers": ["ochmoq", "yopmoq", "buzmoq", "tuzatmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'save' mean?",
+      "answers": ["sarflamoq", "tejamkorlik qilmoq", "yo'qotmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tanımlamak nima?",
-      "answers": ["aniqlamoq", "yashirmoq", "rad etmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tejamkorlik qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["spend", "save", "lose", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "danışman nima?",
-      "answers": ["ilmiy rahbar", "shifokor", "o‘qituvchi", "sotuvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'select' mean?",
+      "answers": ["rad etmoq", "tanlamoq", "qabul qilmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "hizmet nima?",
-      "answers": ["xizmat", "sovg‘a", "qarz", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tanlamoq so'zining inglizcha tarjimasi?",
+      "answers": ["reject", "select", "accept", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "satış nima?",
-      "answers": ["sotish", "olish", "berish", "savdo"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'supply' mean?",
+      "answers": ["talab", "ta'minot / ta'min etmoq", "savdo", "xarid"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "bahsetmek nima?",
-      "answers": ["haqida gapirmoq", "yashirmoq", "rad etmoq", "so‘ramoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ta'min etmoq so'zining inglizcha tarjimasi?",
+      "answers": ["demand", "supply", "trade", "purchase"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tüketmek nima?",
-      "answers": ["iste’mol qilmoq", "saqlamoq", "yig‘moq", "sotmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'variety' mean?",
+      "answers": ["bir xillik", "xilma-xillik", "kamchilik", "ortiqchalik"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "davranış nima?",
-      "answers": ["munosabatda bo‘lish", "so‘z", "harakat", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Xilma-xillik so'zining inglizcha tarjimasi?",
+      "answers": ["uniformity", "variety", "deficiency", "excess"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "huy nima?",
-      "answers": ["odat", "xato", "yangi", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'waste' mean?",
+      "answers": ["tejamkorlik qilmoq", "isrof qilish / isrof", "saqlash", "investitsiya"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "saygın nima?",
-      "answers": ["hurmatli, obro‘li", "oddiy", "sekin", "qiziqsiz"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Isrof qilish so'zining inglizcha tarjimasi?",
+      "answers": ["save", "waste", "keep", "invest"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "belirlemek nima?",
-      "answers": ["bildirmoq", "yashirmoq", "rad etmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does the phrasal verb 'add up' mean?",
+      "answers": ["ayirmoq", "umumiy summasi ni topmoq", "ko'paytirmoq", "bo'lmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ulaşmak nima?",
-      "answers": ["bog‘lanmoq, yetishmoq", "uzoqlashmoq", "qochmoq", "to‘xtamoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Umumiy summasi ni topmoq so'zining inglizcha tarjimasi?",
+      "answers": ["subtract", "add up", "multiply", "divide"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "değişiklik nima?",
-      "answers": ["farqlilik", "o‘xshashlik", "moslik", "bir xillik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'come back (from)' mean?",
+      "answers": ["ketmoq", "qaytmoq (qaytib kelmoq)", "borish", "kelish"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ikramiye nima?",
-      "answers": ["bonus, ikrom qilinadigan narsa", "jarima", "qarz", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qaytmoq (qaytib kelmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["go", "come back (from)", "go to", "come to"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "seçim nima?",
-      "answers": ["tanlov, saylov", "rad etish", "xato", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'give away' mean?",
+      "answers": ["sotmoq", "bepul berib yubormoq", "olmoq", "qaytarmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "bocalamak nima?",
-      "answers": ["qimirlashmoq", "to‘xtamoq", "sekinlashmoq", "yurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Bepul berib yubormoq so'zining inglizcha tarjimasi?",
+      "answers": ["sell", "give away", "take", "return"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "denizaltı nima?",
-      "answers": ["dengiz tagi", "samolyot", "kema", "avtomobil"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'hurry up' mean?",
+      "answers": ["sekinroq qilmoq", "shoshilmoq", "to'xtatmoq", "kutmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "iştah nima?",
-      "answers": ["ishtaha", "uyqu", "charchoq", "kuch"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Shoshilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["slow down", "hurry up", "stop", "wait"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sorumlu nima?",
-      "answers": ["mas’uliyatli", "beparvo", "dangasa", "sekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'pay back' mean?",
+      "answers": ["so'ramoq", "qaytarib bermoq (pulni)", "olmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "cesaret etmek nima?",
-      "answers": ["jasorat qilmoq, botinmoq", "qo‘rqmoq", "qochmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qaytarib bermoq (pulni) so'zining inglizcha tarjimasi?",
+      "answers": ["ask", "pay back", "take", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "uzaklaşmak nima?",
-      "answers": ["uzoqlashmoq", "yaqinlashmoq", "qolmoq", "yurmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'save up (for)' mean?",
+      "answers": ["sarflamoq", "tejamkorlik qilmoq (maqsadli)", "yo'qotmoq", "investitsiya qilmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "departman nima?",
-      "answers": ["bo‘lim", "firma", "do‘kon", "maktab"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Tejamkorlik qilmoq (maqsadli) so'zining inglizcha tarjimasi?",
+      "answers": ["spend", "save up (for)", "lose", "invest"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "itibar nima?",
-      "answers": ["e’tibor", "beparvolik", "xato", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'take back' mean?",
+      "answers": ["olib ketmoq", "qaytarib bermoq (joyiga)", "olmoq", "bermoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "sürekli nima?",
-      "answers": ["muntazam", "vaqtinchalik", "sekin", "to‘xtovsiz"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qaytarib bermoq (joyiga) so'zining inglizcha tarjimasi?",
+      "answers": ["take away", "take back", "take", "give"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "değerlendirmek nima?",
-      "answers": ["qadrlantirmoq, qiymatli qilmoq", "rad etmoq", "e’tiborsiz qoldirmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'take down' mean?",
+      "answers": ["ko'tarmoq", "olib tushirmoq (baland joydan)", "qo'ymoq", "olmoq"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "uzamak nima?",
-      "answers": ["uzaymoq", "qisqarmoq", "to‘xtamoq", "kengaymoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Olib tushirmoq (baland joydan) so'zining inglizcha tarjimasi?",
+      "answers": ["lift up", "take down", "put", "take"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "destek nima?",
-      "answers": ["yordam", "xavf", "qiyinchilik", "rad etish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'by credit card/cheque' mean?",
+      "answers": ["naqd pul bilan", "kredit kartasi/chek bilan", "qarz bilan", "pulsiz"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "izin nima?",
-      "answers": ["ruxsat", "man qilish", "xato", "kechikish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Kredit kartasi bilan so'zining inglizcha tarjimasi?",
+      "answers": ["in cash", "by credit card", "in debt", "free of charge"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yaratmak nima?",
-      "answers": ["yaratmoq", "buzmoq", "yo‘qotmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'for rent' mean?",
+      "answers": ["sotiladi", "ijaraga beriladi", "sovg'a qilinadi", "bepul"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "depolamak nima?",
-      "answers": ["arxivlamoq", "sotmoq", "tarqatmoq", "ochmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Ijaraga beriladi so'zining inglizcha tarjimasi?",
+      "answers": ["for sale", "for rent", "for gift", "for free"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "devlet nima?",
-      "answers": ["davlat", "shahar", "qishloq", "uy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'for sale' mean?",
+      "answers": ["ijaraga beriladi", "sotiladi", "sovg'a qilinadi", "bepul"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "katkı nima?",
-      "answers": ["hissa", "xato", "qiyinchilik", "foyda"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Sotiladi so'zining inglizcha tarjimasi?",
+      "answers": ["for rent", "for sale", "for gift", "for free"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "şart nima?",
-      "answers": ["shart", "xohish", "sovg‘a", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'in cash' mean?",
+      "answers": ["kredit kartasi bilan", "naqd pul bilan", "chek bilan", "qarz bilan"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yenilemek nima?",
-      "answers": ["yangilamoq", "eskitmoq", "buzmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Naqd pul bilan so'zining inglizcha tarjimasi?",
+      "answers": ["by credit card", "in cash", "by cheque", "in debt"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "dokunmak nima?",
-      "answers": ["teginmoq", "qochmoq", "yashirmoq", "otmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'in debt' mean?",
+      "answers": ["boy", "qarzdor", "pul to'langan", "bepul"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "dikiş nima?",
-      "answers": ["tikish", "kesish", "yuvish", "bo‘yash"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Qarzdor so'zining inglizcha tarjimasi?",
+      "answers": ["rich", "in debt", "paid", "free"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kazanç nima?",
-      "answers": ["qozonilgan narsa, foyda", "zarar", "qarz", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What does 'in good/bad condition' mean?",
+      "answers": ["yangi/eski", "yaxshi/yomon holatda", "arzon/qimmat", "kichik/katta"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "şikayetçi nima?",
-      "answers": ["shikoyat qilgan odam", "xursand odam", "yordamchi", "sotuvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Yaxshi holatda so'zining inglizcha tarjimasi?",
+      "answers": ["new/old", "in good condition", "cheap/expensive", "small/big"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yıpratmak nima?",
-      "answers": ["eskirtib tashlamoq, yirtib yubormoq", "tuzatmoq", "yaxshilamoq", "saqlamoq"],
+      "question": "What is the noun form of 'add'?",
+      "answers": ["addition", "additive", "adding", "adder"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "doğrultu nima?",
-      "answers": ["yo‘nalish", "xato", "to‘xtash", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What is the adjective form of 'afford'?",
+      "answers": ["affording", "affordable", "affordance", "afforded"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "kıdemli nima?",
-      "answers": ["tajribali, stajli", "yosh", "yangicha", "oddiy"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What is the noun form of 'compare'?",
+      "answers": ["compartment", "comparison", "compass", "company"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tanıdık nima?",
-      "answers": ["tanish", "begona", "do‘st", "dushman"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "What is the noun form of 'decide'?",
+      "answers": ["decider", "decision", "decisive", "deciding"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "dönüşmek nima?",
-      "answers": ["aylanmoq", "to‘xtamoq", "qolmoq", "yurmoq"],
+      "question": "What is the adjective form of 'expense'?",
+      "answers": ["expensive", "expensively", "expender", "expensiveness"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "yol açmak nima?",
-      "answers": ["yo‘l ochmoq", "yo‘l yopmoq", "to‘xtatmoq", "kechiktirmoq"],
+      "question": "What is the opposite adjective of 'expensive'?",
+      "answers": ["inexpensive", "unexpensive", "disexpensive", "antiexpensive"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "dolgun nima?",
-      "answers": ["to‘la, to‘liq", "bo‘sh", "qisqa", "sekin"],
+      "question": "What is the noun form of 'judge'?",
+      "answers": ["judgement", "judging", "judicial", "judiciary"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "kişilik nima?",
-      "answers": ["shaxiyat", "guruh", "jamiyat", "xato"],
+      "question": "What are the noun forms of 'serve'?",
+      "answers": ["service and servant", "server and serving", "servitude and servile", "serve and servable"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "tanım nima?",
-      "answers": ["ta’rif", "xato", "so‘z", "harakat"],
+      "question": "What is the noun form of 'true'?",
+      "answers": ["truth", "truly", "trueness", "truing"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "eleştirmek nima?",
-      "answers": ["tanqid qilmoq", "maqtamoq", "yordam bermoq", "qabul qilmoq"],
+      "question": "What is the opposite of 'true'?",
+      "answers": ["untrue", "distrue", "antitrue", "falsetrue"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "yönetmek nima?",
-      "answers": ["boshqarmoq", "qochmoq", "to‘xtamoq", "rad etmoq"],
+      "question": "What is the adjective form of 'use'?",
+      "answers": ["useful and useless", "usable and used", "user and usage", "using and used"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "dönüm noktası nima?",
-      "answers": ["o‘zgarish nuqtasi", "boshlanish", "tugatish", "xato"],
+      "question": "What is the adjective form of 'value'?",
+      "answers": ["valuable", "valued", "valuing", "valuer"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "konteynır nima?",
-      "answers": ["konteyner", "quti", "sumka", "qadoq"],
+      "question": "Complete the pattern: wrong ______",
+      "answers": ["about/with", "to/for", "at/by", "in/on"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "toptancı nima?",
-      "answers": ["ulgurji savdogar", "chakana sotuvchi", "shifokor", "o‘qituvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: decide ______",
+      "answers": ["to", "on", "for", "with"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "geliştirmek nima?",
-      "answers": ["rivojlantirmoq", "buzmoq", "kamaytirmoq", "to‘xtatmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: belong ______",
+      "answers": ["with", "to", "for", "from"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "gerektirmek nima?",
-      "answers": ["kerakli bo‘lish, talab qilmoq", "rad etmoq", "tekin qilmoq", "osonlashtirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: lend sth ______",
+      "answers": ["from", "to", "with", "for"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yönlendirmek nima?",
-      "answers": ["yo‘naltirmoq", "to‘xtatmoq", "yashirmoq", "xato qilmoq"],
+      "question": "Complete the pattern: borrow sth ______",
+      "answers": ["from", "to", "with", "for"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "duruş nima?",
-      "answers": ["turish", "o‘tirish", "yurish", "sakrash"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: pay ______",
+      "answers": ["to", "for", "with", "from"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "korkunç nima?",
-      "answers": ["qo‘rquv, qo‘rqinch", "xursandchilik", "tinchlik", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: buy sth ______",
+      "answers": ["to", "for", "from", "with"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "tarz nima?",
-      "answers": ["uslub", "xato", "oddiy", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: spend sth ______",
+      "answers": ["to", "for", "on", "with"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "düşük nima?",
-      "answers": ["past", "yuqori", "o‘rtacha", "tekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Complete the pattern: choose ______",
+      "answers": ["from", "to", "between", "with"],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "liderlik nima?",
-      "answers": ["liderlik, yetakchilik", "qo‘rquv", "xato", "qiyinchilik"],
+      "question": "Complete the pattern: compare sth ______",
+      "answers": ["to/with", "from/to", "for/with", "at/by"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "tehlike nima?",
-      "answers": ["tahlika, xavf-xatar", "ishonch", "yordam", "foyda"],
+      "question": "Complete the pattern: an advertisement ______",
+      "answers": ["for", "to", "with", "from"],
       "correct_answer": 0,
-      "time": 10
+      "time": 15
     },
     {
-      "question": "görevlendirmek nima?",
-      "answers": ["ma’lum vazifa bilan tayinlamoq", "rad etmoq", "to‘xtatmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'wrong about/with':",
+      "answers": ["Something is wrong to the computer.", "Something is wrong about/with the computer.", "Something is wrong at the computer.", "Something is wrong for the computer."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yüceltmek nima?",
-      "answers": ["ulug‘lash", "pastlatmoq", "rad etmoq", "xato qilmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'decide on':",
+      "answers": ["We need to decide for a restaurant.", "We need to decide on a restaurant.", "We need to decide to a restaurant.", "We need to decide with a restaurant."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "editör nima?",
-      "answers": ["tahrirchi", "yozuvchi", "shifokor", "sotuvchi"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'belong to':",
+      "answers": ["This book belongs with me.", "This book belongs to me.", "This book belongs for me.", "This book belongs from me."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "temel nima?",
-      "answers": ["asos, tamal", "ustun", "devor", "pol"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'lend sth to':",
+      "answers": ["Can you lend me some money from?", "Can you lend me some money to?", "Can you lend me some money with?", "Can you lend me some money for?"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "gütmek nima?",
-      "answers": ["hayvonlarni yetaklab boqmoq, ishni amalga oshirishga harakat qilmoq", "to‘xtatmoq", "rad etmoq", "yashirmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'borrow sth from':",
+      "answers": ["I borrowed the book to the library.", "I borrowed the book from the library.", "I borrowed the book with the library.", "I borrowed the book for the library."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "yükseltmek nima?",
-      "answers": ["yuksaltish, oshirish", "pastlatmoq", "kamaytirmoq", "to‘xtatmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'pay for':",
+      "answers": ["I need to pay to the meal.", "I need to pay for the meal.", "I need to pay with the meal.", "I need to pay from the meal."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "maaş nima?",
-      "answers": ["oylik, maosh", "qarz", "sovg‘a", "tölo‘v"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'buy sth from':",
+      "answers": ["I bought this phone to the store.", "I bought this phone from the store.", "I bought this phone with the store.", "I bought this phone for the store."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "eksiklik nima?",
-      "answers": ["kamchilik", "to‘liqlik", "foyda", "yordam"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'spend sth on':",
+      "answers": ["I spend a lot of money to books.", "I spend a lot of money for books.", "I spend a lot of money on books.", "I spend a lot of money with books."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "güvenmek nima?",
-      "answers": ["ishonmoq", "shubhalanmoq", "rad etmoq", "qochmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'choose between':",
+      "answers": ["You need to choose from these two options.", "You need to choose to these two options.", "You need to choose between these two options.", "You need to choose for these two options."],
+      "correct_answer": 2,
+      "time": 15
     },
     {
-      "question": "zorlamak nima?",
-      "answers": ["majburlamoq", "ruxsat bermoq", "yordam bermoq", "rad etmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'compare sth to/with':",
+      "answers": ["You can't compare apples for oranges.", "You can't compare apples to/with oranges.", "You can't compare apples from oranges.", "You can't compare apples at oranges."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "macera nima?",
-      "answers": ["sarguzasht", "tinchlik", "oddiy", "qiyinchilik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Choose the correct sentence using 'an advertisement for':",
+      "answers": ["I saw an advertisement to a new car.", "I saw an advertisement for a new car.", "I saw an advertisement with a new car.", "I saw an advertisement from a new car."],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "tempo nima?",
-      "answers": ["tezlik", "sekinlik", "to‘xtash", "xato"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "The company made a new ______ to their product line.",
+      "answers": ["add", "addition", "adding", "added"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "elverişsiz nima?",
-      "answers": ["noqulay", "qulay", "oson", "tekin"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "This car is very ______ for a family.",
+      "answers": ["afford", "affordable", "affording", "affordance"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "mandıracılık nima?",
-      "answers": ["mol fermachiligi bilan shug‘ullanish, sut fermasi", "meva yetishtirish", "qadoqlash", "sotish"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Let's make a ______ between these two laptops.",
+      "answers": ["compare", "comparison", "comparing", "compared"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "usul nima?",
-      "answers": ["usul", "xato", "qiyinchilik", "yordam"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "I need to make a ______ about which university to attend.",
+      "answers": ["decide", "decision", "deciding", "decided"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ilgi çekmek nima?",
-      "answers": ["e’tiborni jalb qilmoq", "e’tiborsiz qoldirmoq", "yashirmoq", "rad etmoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "This restaurant is too ______ for my budget.",
+      "answers": ["expense", "expensive", "expensively", "expend"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "zorlaştırmak nima?",
-      "answers": ["qiyinlashtirmoq", "osonlashtirmoq", "to‘xtatmoq", "yordam bermoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "The ______ was fair and honest.",
+      "answers": ["judge", "judgement", "judging", "judicial"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "engel nima?",
-      "answers": ["to‘siq", "yordam", "foyda", "osonlik"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Good customer ______ is important for business.",
+      "answers": ["serve", "service", "serving", "served"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "memnuniyetsiz nima?",
-      "answers": ["norozi", "xursand", "tinch", "qiziqarli"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "Please tell me the ______ about what happened.",
+      "answers": ["true", "truth", "truly", "truing"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "ücra nima?",
-      "answers": ["ko‘zga tashlanmaydigan, juda uzoqda bo‘lgan", "yaqin", "markaziy", "qulay"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "This information is very ______ for my research.",
+      "answers": ["use", "useful", "using", "used"],
+      "correct_answer": 1,
+      "time": 15
     },
     {
-      "question": "imza atmak nima?",
-      "answers": ["imzolamoq", "rad etmoq", "yozmoq", "o‘qimoq"],
-      "correct_answer": 0,
-      "time": 10
+      "question": "This old painting is very ______.",
+      "answers": ["value", "valuable", "valuing", "valued"],
+      "correct_answer": 1,
+      "time": 15
     }
   ]
 }

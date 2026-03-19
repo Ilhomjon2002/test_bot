@@ -1,1 +1,846 @@
 
+{
+  "name": "Unit 6",
+  "questions": [
+    {
+      "question": "What does 'achieve' mean?",
+      "answers": ["muvaffaqiyatsizlikka uchramoq", "erishmoq (muvaffaqiyat)", "yo'qotmoq", "sinab ko'rmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Eirshmoq (muvaffaqiyat) so'zining inglizcha tarjimasi?",
+      "answers": ["fail", "achieve", "lose", "try"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'brain' mean?",
+      "answers": ["yurak", "miya", "o'pka", "jigar"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Miya so'zining inglizcha tarjimasi?",
+      "answers": ["heart", "brain", "lung", "liver"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'clever' mean?",
+      "answers": ["ahmoq", "aqlli", "yomon", "sekin"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Aqlli so'zining inglizcha tarjimasi?",
+      "answers": ["stupid", "clever", "bad", "slow"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'concentrate' mean?",
+      "answers": ["tarqoq bo'lmoq", "diqqatni jamlamoq", "xafa bo'lmoq", "dam olmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Diqqatni jamlamoq so'zining inglizcha tarjimasi?",
+      "answers": ["distract", "concentrate", "upset", "rest"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'consider' mean?",
+      "answers": ["e'tiborsiz qoldirmoq", "o'ylab ko'rmoq", "rad etmoq", "tez qaror qilmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "O'ylab ko'rmoq so'zining inglizcha tarjimasi?",
+      "answers": ["ignore", "consider", "reject", "decide quickly"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'course' mean?",
+      "answers": ["kitob", "kurs", "sinf", "dars"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Kurs (o'quv) so'zining inglizcha tarjimasi?",
+      "answers": ["book", "course", "class", "lesson"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'degree' mean?",
+      "answers": ["diplom", "daraja", "sertifikat", "guvohnoma"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Daraja (ilmiy) so'zining inglizcha tarjimasi?",
+      "answers": ["diploma", "degree", "certificate", "license"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'experience' mean?",
+      "answers": ["bilimsizlik", "tajriba / tajriba orttirmoq", "nazorat", "sinov"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Tajriba so'zining inglizcha tarjimasi?",
+      "answers": ["inexperience", "experience", "control", "test"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'expert' mean?",
+      "answers": ["yangi boshlovchi", "mutaxassis", "o'quvchi", "ustoz"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Mutaxassis so'zining inglizcha tarjimasi?",
+      "answers": ["beginner", "expert", "student", "teacher"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'fail' mean?",
+      "answers": ["muvaffaqiyatli o'tmoq", "muvaffaqiyatsizlikka uchramoq", "ortiqcha ball olmoq", "imtihondan o'tmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Muvaffaqiyatsizlikka uchramoq so'zining inglizcha tarjimasi?",
+      "answers": ["pass", "fail", "excel", "take an exam"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'guess' mean?",
+      "answers": ["aniq bilmoq", "taxmin qilish / taxmin", "ishonmoq", "inkor etmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Taxmin qilish so'zining inglizcha tarjimasi?",
+      "answers": ["know for sure", "guess", "believe", "deny"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'hesitate' mean?",
+      "answers": ["darhol qilmoq", "ikkilanmoq", "ishonmoq", "talab qilmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ikkilanmoq so'zining inglizcha tarjimasi?",
+      "answers": ["do immediately", "hesitate", "believe", "demand"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'instruction' mean?",
+      "answers": ["savol", "ko'rsatma", "javob", "masala"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ko'rsatma so'zining inglizcha tarjimasi?",
+      "answers": ["question", "instruction", "answer", "problem"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'make progress' mean?",
+      "answers": ["orqaga qaytmoq", "taraqqiyot qilmoq", "to'xtab qolmoq", "boshlamoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Taraqqiyot qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["go backwards", "make progress", "stop", "start"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'make sure' mean?",
+      "answers": ["shubhalanmoq", "ishonch hosil qilmoq", "e'tibor bermaslik", "unutmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ishonch hosil qilmoq so'zining inglizcha tarjimasi?",
+      "answers": ["doubt", "make sure", "ignore", "forget"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'mark' mean?",
+      "answers": ["baholamoq / baho", "o'qimoq", "yozmoq", "o'rgatmoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Baholamoq so'zining inglizcha tarjimasi?",
+      "answers": ["mark", "read", "write", "teach"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'mental' mean?",
+      "answers": ["jismoniy", "aqliy", "hissiy", "ijtimoiy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Aqliy so'zining inglizcha tarjimasi?",
+      "answers": ["physical", "mental", "emotional", "social"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'pass' mean?",
+      "answers": ["imtihondan o'tmoq", "imtihondan yiqilmoq", "imtihonga kirmoq", "imtihondan qochmoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Imtihondan o'tmoq so'zining inglizcha tarjimasi?",
+      "answers": ["pass", "fail", "take an exam", "avoid exam"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'qualification' mean?",
+      "answers": ["malakasizlik", "malaka", "tajribasizlik", "bilimsizlik"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Malaka so'zining inglizcha tarjimasi?",
+      "answers": ["disqualification", "qualification", "inexperience", "ignorance"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'remind' mean?",
+      "answers": ["unutmoq", "eslatmoq", "yashirmoq", "e'lon qilmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Eslatmoq so'zining inglizcha tarjimasi?",
+      "answers": ["forget", "remind", "hide", "announce"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'report' mean?",
+      "answers": ["suhbat", "hisobot", "shikoyat", "taklif"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Hisobot so'zining inglizcha tarjimasi?",
+      "answers": ["conversation", "report", "complaint", "suggestion"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'revise' mean?",
+      "answers": ["o'rganmoq", "takrorlamoq", "unutmoq", "baholamoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Takrorlamoq so'zining inglizcha tarjimasi?",
+      "answers": ["learn", "revise", "forget", "grade"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'search' mean?",
+      "answers": ["qidirmoq / qidiruv", "topmoq", "yo'qotmoq", "bermoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Qidirmoq so'zining inglizcha tarjimasi?",
+      "answers": ["search", "find", "lose", "give"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'skill' mean?",
+      "answers": ["nojironlik", "mahorat", "bilimsizlik", "qobiliyatsizlik"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Mahorat so'zining inglizcha tarjimasi?",
+      "answers": ["clumsiness", "skill", "ignorance", "inability"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'smart' mean?",
+      "answers": ["ahmoq", "aqlli", "yomon", "sekin"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Aqlli (zamonaviy ma'noda) so'zining inglizcha tarjimasi?",
+      "answers": ["stupid", "smart", "bad", "slow"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'subject' mean?",
+      "answers": ["javob", "fan", "savol", "masala"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Fan so'zining inglizcha tarjimasi?",
+      "answers": ["answer", "subject", "question", "problem"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'take an exam' mean?",
+      "answers": ["imtihondan o'tmoq", "imtihon topshirmoq", "imtihondan yiqilmoq", "imtihon o'tkazmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Imtihon topshirmoq so'zining inglizcha tarjimasi?",
+      "answers": ["pass an exam", "take an exam", "fail an exam", "conduct an exam"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'talented' mean?",
+      "answers": ["iqtidorsiz", "iqtidorli", "o'rtacha", "nojiron"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Iqtidorli so'zining inglizcha tarjimasi?",
+      "answers": ["untalented", "talented", "average", "clumsy"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'term' mean?",
+      "answers": ["yil", "semestr", "hafta", "kun"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Semestr so'zining inglizcha tarjimasi?",
+      "answers": ["year", "term", "week", "day"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'wonder' mean?",
+      "answers": ["hayron bo'lmoq", "qaror qilmoq", "bilmoq", "tushunmoq"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Hayron bo'lmoq so'zining inglizcha tarjimasi?",
+      "answers": ["wonder", "decide", "know", "understand"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does the phrasal verb 'cross out' mean?",
+      "answers": ["belgilamoq", "chizib tashlamoq", "qo'shmoq", "yozmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Chizib tashlamoq so'zining inglizcha tarjimasi?",
+      "answers": ["mark", "cross out", "add", "write"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'look up' mean?",
+      "answers": ["e'tibor bermaslik", "qidirib topmoq (kitobda)", "ko'zdan kechirmoq", "yopmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Qidirib topmoq (kitobda) so'zining inglizcha tarjimasi?",
+      "answers": ["ignore", "look up", "look through", "close"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'point out' mean?",
+      "answers": ["yashirmoq", "ko'rsatib bermoq", "o'zgartirmoq", "rad etmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Ko'rsatib bermoq (diqqat qaratmoq) so'zining inglizcha tarjimasi?",
+      "answers": ["hide", "point out", "change", "deny"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'read out' mean?",
+      "answers": ["ichidan o'qimoq", "baland ovozda o'qimoq", "yozmoq", "eshitmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Baland ovozda o'qimoq so'zining inglizcha tarjimasi?",
+      "answers": ["read silently", "read out", "write", "listen"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'rip up' mean?",
+      "answers": ["yopishtirmoq", "yirtib tashlamoq", "burmoq", "tekislash"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yirtib tashlamoq so'zining inglizcha tarjimasi?",
+      "answers": ["stick", "rip up", "fold", "smooth"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'rub out' mean?",
+      "answers": ["qalam bilan yozmoq", "o'chirib tashlamoq (rezinkada)", "chizmoq", "belgilamoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "O'chirib tashlamoq (rezinkada) so'zining inglizcha tarjimasi?",
+      "answers": ["write with pen", "rub out", "draw", "mark"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'turn over' mean?",
+      "answers": ["oldingi tomonga o'girmoq", "orqa tomonga o'girmoq", "yo'q qilmoq", "burmalash"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Orqa tomonga o'girmoq so'zining inglizcha tarjimasi?",
+      "answers": ["turn forward", "turn over", "destroy", "fold"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'write down' mean?",
+      "answers": ["o'chirmoq", "yozib qo'ymoq", "o'qimoq", "aytmoq"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Yozib qo'ymoq so'zining inglizcha tarjimasi?",
+      "answers": ["erase", "write down", "read", "say"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'by heart' mean?",
+      "answers": ["esdan", "ko'zdan", "qo'ldan", "ovozdan"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Esdan so'zining inglizcha tarjimasi?",
+      "answers": ["by heart", "by sight", "by hand", "by voice"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What does 'for instance' mean?",
+      "answers": ["umuman", "masalan", "xususan", "shuning uchun"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Masalan so'zining inglizcha tarjimasi?",
+      "answers": ["in general", "for instance", "in particular", "therefore"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'in conclusion' mean?",
+      "answers": ["kirishda", "xulosada", "asosida", "tufayli"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Xulosada so'zining inglizcha tarjimasi?",
+      "answers": ["in introduction", "in conclusion", "based on", "due to"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'in fact' mean?",
+      "answers": ["taxminan", "aslida", "ehtimol", "albatta"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Aslida so'zining inglizcha tarjimasi?",
+      "answers": ["approximately", "in fact", "possibly", "certainly"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'in favour (of)' mean?",
+      "answers": ["qarshisida", "foydasiga", "chetda", "orasida"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Foydasiga so'zining inglizcha tarjimasi?",
+      "answers": ["against", "in favour (of)", "aside", "between"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What does 'in general' mean?",
+      "answers": ["alohida", "umuman", "aniq", "maxsus"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Umuman so'zining inglizcha tarjimasi?",
+      "answers": ["separately", "in general", "specifically", "specially"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the past tense of 'begin'?",
+      "answers": ["begin", "began", "begun", "beginning"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the past participle of 'begin'?",
+      "answers": ["begin", "began", "begun", "beginning"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is a person who begins something called?",
+      "answers": ["begin", "began", "beginner", "beginning"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'begin'?",
+      "answers": ["begin", "began", "beginner", "beginning"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'brave'?",
+      "answers": ["bravery", "braveness", "bravely", "braven"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'correct'?",
+      "answers": ["correction", "correctness", "correctly", "corrector"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the opposite of 'correct'?",
+      "answers": ["uncorrect", "incorrect", "discorrect", "noncorrect"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'divide'?",
+      "answers": ["division", "divider", "dividing", "divided"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'educate'?",
+      "answers": ["education", "educator", "educating", "educated"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'instruct'?",
+      "answers": ["instruction", "instructor", "both instruction and instructor", "instructing"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "What is the plural form of 'memory'?",
+      "answers": ["memorys", "memories", "memoryes", "memoris"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the adjective form of 'memory'?",
+      "answers": ["memorial", "memorable", "memoryful", "memoried"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'refer'?",
+      "answers": ["reference", "referer", "referring", "referred"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'silent'?",
+      "answers": ["silence", "silently", "silentness", "silentment"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the adverb form of 'silent'?",
+      "answers": ["silence", "silently", "silentness", "silentment"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "What is the verb form of 'simple'?",
+      "answers": ["simplify", "simplicity", "simply", "simpleness"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "What is the noun form of 'simple'?",
+      "answers": ["simplify", "simplicity", "simply", "simpleness"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: capable ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: talented ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: cheat ______",
+      "answers": ["with/of", "at/in", "to/for", "by/from"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: confuse sth ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: continue ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: cope ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: help (sb) ______",
+      "answers": ["with", "of", "at", "in"],
+      "correct_answer": 0,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: know ______",
+      "answers": ["with", "about", "at", "in"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: learn ______",
+      "answers": ["with", "about", "at", "in"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: succeed ______",
+      "answers": ["with", "about", "at", "in"],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: an opinion ______",
+      "answers": ["with/of", "about/of", "to/for", "by/from"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete the pattern: a question ______",
+      "answers": ["with", "about", "of", "in"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'capable of':",
+      "answers": ["She is capable with solving difficult problems.", "She is capable of solving difficult problems.", "She is capable at solving difficult problems.", "She is capable in solving difficult problems."],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'talented at':",
+      "answers": ["He is talented with playing the piano.", "He is talented of playing the piano.", "He is talented at playing the piano.", "He is talented in playing the piano."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'cheat at/in':",
+      "answers": ["He was caught cheating with the exam.", "He was caught cheating of the exam.", "He was caught cheating at the exam.", "He was caught cheating for the exam."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'confuse sth with':",
+      "answers": ["Don't confuse this word of that one.", "Don't confuse this word with that one.", "Don't confuse this word at that one.", "Don't confuse this word in that one."],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'continue with':",
+      "answers": ["Please continue of your work.", "Please continue with your work.", "Please continue at your work.", "Please continue in your work."],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'cope with':",
+      "answers": ["She finds it hard to cope of stress.", "She finds it hard to cope with stress.", "She finds it hard to cope at stress.", "She finds it hard to cope in stress."],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'help (sb) with':",
+      "answers": ["Can you help me of my homework?", "Can you help me with my homework?", "Can you help me at my homework?", "Can you help me in my homework?"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'know about':",
+      "answers": ["I don't know much with this topic.", "I don't know much of this topic.", "I don't know much about this topic.", "I don't know much at this topic."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'learn about':",
+      "answers": ["We learned with different cultures.", "We learned of different cultures.", "We learned about different cultures.", "We learned at different cultures."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'succeed in':",
+      "answers": ["He succeeded with passing the exam.", "He succeeded of passing the exam.", "He succeeded at passing the exam.", "He succeeded in passing the exam."],
+      "correct_answer": 3,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'an opinion about/of':",
+      "answers": ["What is your opinion with this book?", "What is your opinion of this book?", "What is your opinion at this book?", "What is your opinion for this book?"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Choose the correct sentence using 'a question about':",
+      "answers": ["I have a question with the homework.", "I have a question of the homework.", "I have a question about the homework.", "I have a question at the homework."],
+      "correct_answer": 2,
+      "time": 15
+    },
+    {
+      "question": "The course ______ last week and will finish in June.",
+      "answers": ["begin", "began", "begun", "beginning"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "She showed great ______ during the difficult exam.",
+      "answers": ["brave", "bravery", "bravely", "braveness"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "The teacher made a ______ to my essay.",
+      "answers": ["correct", "correction", "correctness", "correctly"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "The ______ of the class into groups was done by the teacher.",
+      "answers": ["divide", "division", "divider", "dividing"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Higher ______ is important for career development.",
+      "answers": ["educate", "education", "educator", "educating"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Follow the ______ carefully to complete the task.",
+      "answers": ["instruct", "instruction", "instructor", "instructing"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "I have good ______ of my school days.",
+      "answers": ["memory", "memories", "memorial", "memorable"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "You can find more information in the ______ section.",
+      "answers": ["refer", "reference", "referer", "referring"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "Complete ______ fell over the classroom.",
+      "answers": ["silent", "silence", "silently", "silentness"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "The teacher asked us to ______ the sentence.",
+      "answers": ["simple", "simplify", "simplicity", "simply"],
+      "correct_answer": 1,
+      "time": 15
+    },
+    {
+      "question": "He listened ______ to the teacher's explanation.",
+      "answers": ["silent", "silence", "silently", "silentness"],
+      "correct_answer": 2,
+      "time": 15
+    }
+  ]
+}
